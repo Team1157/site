@@ -89,7 +89,7 @@ Boulder, CO 80302
 :::
 
 ### Support Us
-Your support helps us continue to innovate and compete! Consider donating to the BHS RoboSharks team.
+Your support helps us continue to innovate and compete! Consider donating to the team.
 
 [Donate Now](/)
 
