@@ -20,4 +20,4 @@ Follow these steps to get a local copy of the project up and running for develop
 
 4. Start the development server:
    ```
-   pnpm run src:dev
+   pnpm src:dev
