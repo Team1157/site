@@ -4,7 +4,14 @@ import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
   bundler: viteBundler(),
-  theme: plumeTheme(),
+  theme: plumeTheme({
+    profile: {
+      name: 'Captains',
+      description: 'RoboSharks team captains',
+      avatar: 'https://www.adabit.org/shorkhehe.png',
+      circle: true,
+    }
+  }),
   base: "/",
   lang: "en-US",
   title: "BHS RoboSharks",
