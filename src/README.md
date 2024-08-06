@@ -1,1 +1,5 @@
-# new site
+---
+lang: en-US
+title: Home
+description: Home
+---
