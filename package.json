@@ -2,13 +2,11 @@
   "scripts": {
     "src:dev": "vuepress dev src",
     "src:build": "vuepress build src"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.14",
+    "@vuepress/theme-default": "2.0.0-rc.40",
+    "vue": "^3.4.36",
+    "vuepress": "2.0.0-rc.14"
   }
-}
-{
-	"devDependencies": {
-		"@vuepress/bundler-vite": "2.0.0-rc.14",
-		"@vuepress/theme-default": "2.0.0-rc.40",
-		"vue": "^3.4.36",
-		"vuepress": "2.0.0-rc.14"
-	}
 }
