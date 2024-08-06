@@ -1,4 +1,5 @@
-## Until we renew the actual domain it's available at https://1157.adabit.org
+> [!NOTE]  
+> Until we renew the actual domain it's available at https://1157.adabit.org
 
 ## Getting Started
 Follow these steps to get a local copy of the project up and running for development
