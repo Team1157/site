@@ -8,7 +8,7 @@ config:
   -
     type: hero
     full: true
-    background: tint-plate
+    background: https://www.blackknightsrobotics.org/images/flatironsHome.png
     hero:
       name: RoboSharks
       tagline: Boulder High School MATE ROV Team
