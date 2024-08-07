@@ -10,7 +10,7 @@ config:
     full: true
     banner: bg.png
     hero:
-      name: Robosharks
+      name: Robo​sharks
       tagline: MATE ROV Team
       image: 
         src: /images/robosharks-logo.png
