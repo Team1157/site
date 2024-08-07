@@ -6,9 +6,9 @@ navbar: true
 footer: false
 config:
   -
-    type: hero
+    type: banner
     full: true
-    background: https://www.blackknightsrobotics.org/images/flatironsHome.png
+    banner: bg.png
     hero:
       name: RoboSharks
       tagline: Boulder High School MATE ROV Team

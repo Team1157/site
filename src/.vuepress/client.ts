@@ -1,5 +1,5 @@
 import { defineClientConfig } from 'vuepress/client'
-import './styles/index.css'
+import './styles/palette.scss'
 export default defineClientConfig({
   enhance({ app, router, siteData }) {},
   setup() {},
