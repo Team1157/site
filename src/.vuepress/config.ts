@@ -7,7 +7,7 @@ export default defineUserConfig({
   theme: plumeTheme({
   	footer: false,
     navbar: [
-    { text: '', link: '/' },
+    { text: 'Projects', link: '/projects' },
     ],
     profile: {
       name: 'Captains',
