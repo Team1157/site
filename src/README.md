@@ -10,9 +10,8 @@ config:
     full: true
     banner: bg.png
     hero:
-      name: RoboSharks
-      tagline: Boulder High School MATE ROV Team
-      text: Diving deep into underwater robotics and innovation
+      name: BHS RoboSharks
+      tagline: MATE ROV Team
       actions:
         -
           theme: brand
@@ -20,7 +19,11 @@ config:
           link: /
         -
           theme: alt
-          text: GitHub
+          text: TBA →
+          link: https://www.thebluealliance.com/team/1157
+        -
+          theme: alt
+          text: GitHub →
           link: https://github.com/Team1157/
   -
     type: features
