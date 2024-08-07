@@ -17,7 +17,9 @@ export default defineUserConfig({
     },
     plugins: {
 	  search: false,
-	}
+	},
+	logo: 'https://www.adabit.org/shorkhehe.png',
+	appearance: 'force-dark'
   }),
   base: "/",
   lang: "en-US",
