@@ -21,6 +21,6 @@ export default defineUserConfig({
   }),
   base: "/",
   lang: "en-US",
-  title: "BHS RoboSharks",
+  title: "Robosharks",
   description: "Mate ROV Team",
 })

@@ -10,7 +10,7 @@ config:
     full: true
     banner: bg.png
     hero:
-      name: BHS RoboSharks
+      name: Robosharks
       tagline: MATE ROV Team
       actions:
         -
@@ -25,6 +25,10 @@ config:
           theme: alt
           text: GitHub →
           link: https://github.com/Team1157/
+        -
+          theme: alt
+          text: Instagram →
+          link: https://www.instagram.com/boulder_high_robotics
   -
     type: features
     features:
