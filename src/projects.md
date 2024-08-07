@@ -1,8 +1,11 @@
 ---
-author: Captains
-createTime: 2024/08/06 19:11:27
-permalink: /article/v7fyjvcv/
+home: true
+config:
+  - type: custom
+author: ada t
 title: Projects
+createTime: 2024/08/06 19:11:27
+permalink: /article/bhz8t2vj/
 ---
 
 ### Competition - MATE 2021
@@ -56,7 +59,7 @@ title: Projects
 ---
 
 ### Thing
-####Articulated Hand Robot
+#### Articulated Hand Robot
 
 ---
 
