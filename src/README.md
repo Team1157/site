@@ -21,7 +21,7 @@ config:
         -
           theme: alt
           text: GitHub
-          link: https://github.vom/team1157/
+          link: https://github.com/Team1157/
   -
     type: features
     features:
