@@ -73,12 +73,11 @@ config:
     image:
       src: /nav2.jpeg
       alt: RoboSharks Team
+  -
+    type: custom
 ---
-<div style="max-width: 960px;margin:0 auto;">
+<div>
 
-### Our Outreach
-
-<img src="https://example.com/images/outreach-collage.jpg" alt="RoboSharks Outreach Activities" style="width: 100%; max-width: 600px; display: block; margin: 20px auto;" />
 
 ### Contact Us
 Feel free to reach out if you have any questions or want to get involved!
@@ -99,12 +98,5 @@ Boulder High School
 Boulder, CO 80302
 ```
 :::
-
-### Support Us
-Your support helps us continue to innovate and compete! Consider donating to the team.
-
-<img src="/silly.jpeg" alt="Support RoboSharks" style="width: 100%; max-width: 400px; display: block; margin: 20px auto;" />
-
-[Donate Now](/donate)
 
 </div>
