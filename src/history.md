@@ -82,6 +82,10 @@ permalink: /history
 </div>
 <h2>Competition - FRC 2019</h2>
 <h3>TallStack II</h3>
+<div class="image-container">
+  <img src="/2019.jpg?url" alt="Gary">
+  <div class="arrow" onclick="expandImage(this)">&#9660;</div>
+</div>
 <h2>Competition - FRC 2018</h2>
 <h3>TallStack</h3>
 <div class="image-container">
@@ -102,6 +106,10 @@ permalink: /history
 </div>
 <h2>Jenny</h2>
 <h3>Beefed-Up Shopping Cart</h3>
+<div class="image-container">
+  <img src="/jenny.JPG?url" alt="Gary">
+  <div class="arrow" onclick="expandImage(this)">&#9660;</div>
+</div>
 <h2>Thing</h2>
 <h3>Articulated Hand Robot</h3>
 <h2>Competition - FRC 2008-2015</h2>
