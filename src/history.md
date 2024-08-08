@@ -1,5 +1,5 @@
 ---
-author: ada t
+author: written by ada t with contributions from kieran
 title: History
 createTime: 2024/08/06 19:11:27
 permalink: /history
