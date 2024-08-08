@@ -7,110 +7,84 @@ title: Projects
 createTime: 2024/08/06 19:11:27
 permalink: /article/bhz8t2vj/
 ---
+<h2>Competition - MATE 20204</h2>
+<h3>Mako</h3>
+<img src="/Mako_Image_Bad.jpg?url" alt="Mako" height="150px">
+<p>A completely new design, Mako had didn't have a conventional frame, instead utilizing a set of rails around the drybox which served as adjustable attachment points for the thrusters, camera, and manipulator. Designed for power and finesse over symmetricallity, Mako was capable of extremely fast forward movement and precise rotation.</p>
 
-### Competition - MATE 20204
+<hr>
 
-#### Mako
+<h2>Competition - MATE 2023</h2>
+<h3>Bubbles</h3>
+<img src="/Bubbles!.jpeg?url" alt="Bubbles">
+<p>An iteration of the earlier Boxfish ROV, Bubbles utilized a similar frame structure, but with 8 thrusters placed at the corners of the frame, allowing for near-symmetrical movement in any orientation. Designed to have pair of cameras and manipulators on both sides, Bubbles was able to quickly shift between tasks at ease, without needing precious time to swing the around to face the new focus.</p>
 
-![Mako](/Mako_Image_Bad.jpg?url)
+<hr>
 
-A completely new design, Mako had didn't have a conventional frame, instead utilizing a set of rails around the drybox which served as adjustable attachment points for the thrusters, camera, and manipulator. Designed for power and finesse over symmetricallity, Mako was capable of extremely fast forward movement and precise rotation.
+<h2>Competition - MATE 2022</h2>
+<h3>Boxfish</h3>
+<img src="/Boxfish.jpg?url" alt="Boxfish">
 
----
+<hr>
 
-### Competition - MATE 2023
+<h2>Competition - MATE 2021</h2>
+<h3>Hammerhead</h3>
+<img src="https://adabit.org/banner.jpg" alt="Hammerhead">
+<p>Our first foray into the MATE ROV competition, Hammerhead was designed to be extremely versatile. The width of the front manipulator provided an extremely stable platform to move and interact with most objects she encountered.</p>
 
-#### Bubbles
+<hr>
 
-![Bubbles](/Bubbles!.jpeg?url)
+<h2>Sandshark</h2>
+<img src="/Rover.JPG?url" alt="Sandshark">
+<h3>Overland Long Distance Rover</h3>
 
-An iteration of the earlier Boxfish ROV, Bubbles utilized a similar frame structure, but with 8 thrusters placed at the corners of the frame, allowing for near-symmetrical movement in any orientation. Designed to have pair of cameras and manipulators on both sides, Bubbles was able to quickly shift between tasks at ease, without needing precious time to swing the around to face the new focus.
+<hr>
 
----
+<h2>Competition - FRC 2020</h2>
+<h3>Gary</h3>
+<img src="/Gary_minus_buffer.jpg?url" alt="Gary">
 
-### Competition - MATE 2022
+<hr>
 
-#### Boxfish
+<h2>Competition - FRC 2019</h2>
+<h3>TallStack II</h3>
 
-![Boxfish](/Boxfish.jpg?url)
+<hr>
+<h2>Competition - FRC 2018</h2>
 
----
+<h3>TallStack</h3>
 
-### Competition - MATE 2021
+<hr>
 
-#### Hammerhead
+<h2>Competition - FRC 2017</h2>
+<h3>Nautilus</h3>
 
-![Hammerhead](https://adabit.org/banner.jpg?url)
+<hr>
 
-Our first foray into the MATE ROV competition, Hammerhead was designed to be extremely versatile. The width of the front manipulator provided an extremely stable platform to move and interact with most objects she encountered.
+<h2>Competition - FRC 2016</h2>
+<h3>FRC 2016</h3>
 
----
+<hr>
 
-### Sandshark
+<h2>Jenny</h2>
+<h3>Beefed-Up Shopping Cart</h3>
 
-![Sandshark](/Rover.JPG?url)
+<hr>
 
-#### Overland Long Distance Rover
+<h2>Thing</h2>
+<h3>Articulated Hand Robot</h3>
 
----
+<hr>
 
-### Competition - FRC 2020
+<h2>Competition - FRC 2015</h2>
+<h3>FRC 2015</h3>
 
-#### Gary
+<hr>
 
-![Gary](/Gary_minus_buffer.jpg?url)
+<h2>Competition - FRC 2014</h2>
+<h3>FRC 2014</h3>
 
----
+<hr>
 
-### Competition - FRC 2019
-
-#### TallStack II
-
----
-
-### Competition - FRC 2018
-
-#### TallStack
-
----
-
-### Competition - FRC 2017
-
-#### Nautilus
-
----
-
-### Competition - FRC 2016
-
-#### FRC 2016
-
----
-
-
-### Jenny
-#### Beefed-Up Shopping Cart
-
----
-
-### Thing
-#### Articulated Hand Robot
-
----
-
-### Competition - FRC 2015
-
-#### FRC 2015
-
----
-
-### Competition - FRC 2014
-
-#### FRC 2014
-
----
-
-### Competition - FRC 2011
-
-#### Landshark
-
----
+<h2>Competition - FRC 2011</h2>
+<h3>Landshark</h3>
