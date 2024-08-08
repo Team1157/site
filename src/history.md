@@ -112,6 +112,10 @@ permalink: /history
 </div>
 <h2>Thing</h2>
 <h3>Articulated Hand Robot</h3>
+<div class="image-container">
+  <img src="/HAND.png?url" alt="Gary">
+  <div class="arrow" onclick="expandImage(this)">&#9660;</div>
+</div>
 <h2>Competition - FRC 2008-2015</h2>
 <h3>Landshark</h3>
 <p>As far as I can tell this is the first year the team was called the Landsharks, but the information I have through this time period is a little spotty. PLEASE REACH OUT IF YOU HAVE INFO</p>
