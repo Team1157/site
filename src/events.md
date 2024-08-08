@@ -49,6 +49,11 @@ permalink: /events
   </tr>
   <tr>
     <td>2024</td>
+    <td>Mate Championship</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2024</td>
     <td>Colorado MATE Regional</td>
     <td>Ranger 1st Place, Dan Zahner Memorial Award</td>
   </tr>
@@ -56,6 +61,11 @@ permalink: /events
     <td>2023</td>
     <td>Colorado MATE Regional</td>
     <td>Dan Zahner Memorial Award</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Mate Championship</td>
+    <td></td>
   </tr>
   <tr>
     <td>2022</td>
