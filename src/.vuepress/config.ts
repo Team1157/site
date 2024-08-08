@@ -9,16 +9,18 @@ export default defineUserConfig({
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['meta', { property: 'og:type', content: 'article' }],
     ['script', {}, `
-      function expandImage(element) {
-        var container = element.parentElement;
-        if (container.style.height === '150px') {
-          container.style.height = 'auto';
-          element.innerHTML = '&#9650;'; // Up arrow
-        } else {
-          container.style.height = '150px';
-          element.innerHTML = '&#9660;'; // Down arrow
-        }
-      }
+		function expandImage(element) {
+		  var container = element.parentElement;
+		  container.classList.toggle('expanded');
+		  var image = container.querySelector('img');
+		  if (container.classList.contains('expanded')) {
+		    container.style.height = 'auto';
+		    element.innerHTML = '&#9650;'; // Up arrow
+		  } else {
+		    image.style.height = '150px';
+		    element.innerHTML = '&#9660;'; // Down arrow
+		  }
+		}
     `]
   ],
   bundler: viteBundler(),
