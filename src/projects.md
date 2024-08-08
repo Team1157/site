@@ -8,6 +8,12 @@ createTime: 2024/08/06 19:11:27
 permalink: /article/bhz8t2vj/
 ---
 <style>
+  h2{
+  	color:  #ebbcfc;
+  }
+  h3{
+  	color:  #FFD700;
+  }
   .image-container {
     position: relative;
     height: 150px;
@@ -35,18 +41,6 @@ permalink: /article/bhz8t2vj/
     border-radius: 50%;
   }
 </style>
-<script>
-  function expandImage(element) {
-    var container = element.parentElement;
-    if (container.style.height === '150px') {
-      container.style.height = 'auto';
-      element.innerHTML = '&#9650;'; // Up arrow
-    } else {
-      container.style.height = '150px';
-      element.innerHTML = '&#9660;'; // Down arrow
-    }
-  }
-</script>
 <h2>Competition - MATE 2024</h2>
 <h3>Mako</h3>
 <div class="image-container">
@@ -108,4 +102,4 @@ permalink: /article/bhz8t2vj/
 <h2>Competition - FRC 2003 - 2004</h2>
 <h3>Hippie Bots</h3>
 <p>The first season, started by a couple of seniors, the first meeting had much more turnout than expected and the team was christened the Hippie Bots by the team's first mentor, Mike Fuchs</p>
-<p>FIRST (For Inspiration and Recognition of Science and Technology) is an international, high school level robotics competition, founded with the ultimate goal that science and engineering would become more culturally mainstream. The BHS Team - Team 1157 - is just one of many teams who compete in the FIRST competition. We first competed in 2003, as a part of the Seattle FIRST regional. In 2004, the Colorado FIRST regional chapter held its first competition, and we attended that competition held at Denver University. Also in 2004, we attended the national competition in Atlanta, having won a lottery slot issued to rookie teams. The 2004 competition is just around the corner...</p>
+<p>FIRST (For Inspiration and Recognition of Science and Technology) is an international, high school level robotics competition, founded with the ultimate goal that science and engineering would become more culturally mainstream. The BHS Team - Team 1157 - is just one of many teams who compete in the FIRST competition. We first competed in 2003, as a part of the Seattle FIRST regional. In 2004, the Colorado FIRST regional chapter held its first competition, and we attended that competition held at Denver University. Also in 2004, we attended the national competition in Atlanta, having won a lottery slot issued to rookie teams. The 2005 competition is just around the corner...</p>
