@@ -28,6 +28,7 @@ export default defineUserConfig({
   	footer: false,
     navbar: [
     { text: 'Events', link: '/events' },
+    { text: 'Projects', link: '/projects' },
     { text: 'History', link: '/history' },
     ],
     profile: {
