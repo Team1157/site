@@ -1,7 +1,4 @@
 ---
-home: true
-config:
-  - type: custom
 author: ada t
 title: History
 createTime: 2024/08/06 19:11:27
@@ -44,6 +41,128 @@ permalink: /history
     border-radius: 50%;
   }
 </style>
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Event</th>
+    <th>Awards</th>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>Colorado MATE Regional</td>
+    <td>Ranger 1st Place, Dan Zahner Memorial Award</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>Colorado MATE Regional</td>
+    <td>Dan Zahner Memorial Award</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Colorado MATE Regional</td>
+    <td>Ranger 1st Place</td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Colorado MATE Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>* Colorado Regional (Cancelled)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2017</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2015</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2014</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2013</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2011</td>
+    <td>Colorado Regional</td>
+    <td>Quality Award sponsored by Motorola</td>
+  </tr>
+  <tr>
+    <td>2010</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2009</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2008</td>
+    <td>Colorado Regional</td>
+    <td>Imagery Award</td>
+  </tr>
+  <tr>
+    <td>2007</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2006</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2005</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2004</td>
+    <td>Galileo Division</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2004</td>
+    <td>Colorado Regional</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2003</td>
+    <td>Pacific Northwest Regional</td>
+    <td></td>
+  </tr>
+</table>
 <h2>Competition - MATE 2024</h2>
 <h3>Mako</h3>
 <div class="image-container">
@@ -132,3 +251,4 @@ permalink: /history
 <h3>Hippie Bots</h3>
 <p>Their first season, the robotics club was started by a couple of seniors, and upon the first meeting having much more turnout than expected, the computer teacher decided to use FIRST as a way to teach robotics to the group. The team was christened the Hippie Bots by their first mentor, Mike Fuchs</p>
 <p>"FIRST (For Inspiration and Recognition of Science and Technology) is an international, high school level robotics competition, founded with the ultimate goal that science and engineering would become more culturally mainstream. The BHS Team - Team 1157 - is just one of many teams who compete in the FIRST competition. We first competed in 2003, as a part of the Seattle FIRST regional. In 2004, the Colorado FIRST regional chapter held its first competition, and we attended that competition held at Denver University. Also in 2004, we attended the national competition in Atlanta, having won a lottery slot issued to rookie teams. The 2005 competition is just around the corner..." -The team's 2004 site, accessed via a screenshot that was on the team Google Drive</p>
+
