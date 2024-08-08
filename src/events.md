@@ -43,9 +43,9 @@ permalink: /events
 </style>
 <table>
   <tr>
-    <th>Year</th>
-    <th>Event</th>
-    <th>Awards</th>
+    <th style="color: #ebbcfc">Year</th>
+    <th style="color: #ffd700">Event</th>
+    <th style="color: #ebbcfc">Awards</th>
   </tr>
   <tr>
     <td>2024</td>
