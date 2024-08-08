@@ -1,5 +1,5 @@
 ---
-author: written by ada t with contributions from kieran
+author: written by ada t with help from many 1157 alums
 title: History
 createTime: 2024/08/08 08:13:56
 permalink: /history
