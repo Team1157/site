@@ -95,6 +95,9 @@ permalink: /article/bhz8t2vj/
 <h2>Competition - FRC 2008-2015</h2>
 <h3>Landshark</h3>
 <p>As far as I can tell this is the first year the team was called the Landsharks, but the information I have through this time period is a little spotty. PLEASE REACH OUT IF YOU HAVE INFO</p>
+<h2>Vision - 2007</h2>
+<h3>1157 has seen the light</h3>
+<p>"This year has been going very well for us. We think we are about a week to a week and a half from a fully functioning robot and… We have turned into a moth that can’t stay away from the little green light. <a href="http://www.youtube.com/watch?v=xx1p7XGtWFE">http://www.youtube.com/watch?v=xx1p7XGtWFE</a> That is our 2006 robot fully functional and tracking the light. We have made several circuits of our computer lab since we got it running. It will back off if the light moves too high and will move forward if the light gets too low. The driving has also been integrated with the light so that we can translate sideways and forward/backward while still facing the light to make it easier to place tubes during normal play. This year’s bot will have an almost identical drive train so updating the code will involve some gain changes but otherwise be “effortless”." -taken from chiefdelphi post 77041</p>
 <h2>Competition - FRC 2005 - 2007</h2>
 <h3>The BoulderBots</h3>
 <p>"Team 1157 - the BoulderBots - have competed in an international high school level competition called FIRST. Students from Boulder High - though any local high school student is invited to join - create a 120 pound robot with help from community sponsors and mentors. This robot is designed to accomplish a specific strategy to win a game outlined yearly by FIRST. In 2005, for example, robots were required to stack hollow tetrahedrons (3 sided pyramids) on top of 6-foot goals. In all of a few minutes a single game is complete, but the entire tournament takes two full days to finish." -The team's 2005 website (accessed via the wayback machine)</p>
