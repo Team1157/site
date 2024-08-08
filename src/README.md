@@ -35,7 +35,7 @@ config:
   -
     type: text-image
     title: About Us
-    description: Founded in 2003, the Robosharks is a MATE Rov underwater robotics competition team based in Boulder, Colorado. Our team is made up of students from Boulder High School, and we are dedicated to inspiring young people to be science and technology leaders by engaging them in exciting programs that build science, engineering, and technology skills that inspire innovation and foster well-rounded life capabilities..
+    description: Founded in 2003, the Robosharks is a MATE ROV underwater robotics competition team based in Boulder, Colorado. Our team is made up of students from Boulder High School, and we are dedicated to inspiring young people to be science and technology leaders by engaging them in exciting programs that build science, engineering, and technology skills that inspire innovation and foster well-rounded life capabilities..
     image:
       src: /silly.jpeg
       alt: RoboSharks Team

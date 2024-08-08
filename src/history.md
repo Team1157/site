@@ -28,67 +28,43 @@ permalink: /history
 </style>
 <h2>Competition - MATE 2024</h2>
 <h3>Mako</h3>
-<div class="image-container">
-  <img src="/Mako_Image_Bad.jpg?url" alt="Mako">
-</div>
+<img src="/Mako_Image_Bad.jpg?url" alt="Mako">
 <p>This year we went with a completely new design; Mako didn't have a conventional frame, instead utilizing a set of rails around the drybox which served as adjustable attachment points for the thrusters, camera, and manipulator. Designed for power and finesse over symmetry, Mako was capable of extremely fast forward movement and precise rotation.</p>
 <h2>Competition - MATE 2023</h2>
 <h3>Bubbles</h3>
-<div class="image-container">
   <img src="/Bubbles!.jpeg?url" alt="Bubbles">
-</div>
 <p>An iteration of the earlier Boxfish ROV, Bubbles utilized a similar frame structure, but with 8 thrusters placed at the corners of the frame, allowing for near-symmetrical movement in any orientation. Designed to have pair of cameras and manipulators on both sides, Bubbles was able to quickly shift between tasks at ease, without needing precious time to swing the around to face the new focus.</p>
 <h2>Competition - MATE 2022</h2>
 <h3>Boxfish</h3>
-<div class="image-container">
   <img src="/Boxfish.jpg?url" alt="Boxfish">
-</div>
 <h2>Competition - MATE 2021</h2>
 <h3>Hammerhead</h3>
-<div class="image-container">
   <img src="https://adabit.org/banner.jpg" alt="Hammerhead">
-</div>
 <p>Our first foray into the MATE ROV competition, Hammerhead was designed to be extremely versatile. The width of the front manipulator provided an extremely stable platform to move and interact with most objects she encountered.</p>
 <h2>Sandshark</h2>
 <h3>Overland Long Distance Rover</h3>
-<div class="image-container">
   <img src="/Rover.JPG?url" alt="Sandshark">
-</div>
 <h2>Competition - FRC 2020</h2>
 <h3>Gary</h3>
-<div class="image-container">
   <img src="/Gary_minus_buffer.jpg?url" alt="Gary">
-</div>
 <h2>Competition - FRC 2019</h2>
 <h3>TallStack II</h3>
-<div class="image-container">
   <img src="/2019.jpg?url" alt="Gary">
-</div>
 <h2>Competition - FRC 2018</h2>
 <h3>TallStack</h3>
-<div class="image-container">
   <img src="/arcade.jpg?url" alt="Gary">
-</div>
 <h2>Competition - FRC 2017</h2>
 <h3>Nautilus</h3>
-<div class="image-container">
   <img src="/2017.JPG?url" alt="Gary">
-</div>
 <h2>Competition - FRC 2016</h2>
 <h3>FRC 2016</h3>
-<div class="image-container">
   <img src="/2016.JPG?url" alt="Gary">
-</div>
 <h2>Jenny</h2>
 <h3>Beefed-Up Shopping Cart</h3>
-<div class="image-container">
   <img src="/jenny.JPG?url" alt="Gary">
-</div>
 <h2>Thing</h2>
 <h3>Articulated Hand Robot</h3>
-<div class="image-container">
   <img src="/HAND.png?url" alt="Gary">
-</div>
 <h2>Competition - FRC 2008-2015</h2>
 <h3>Landshark</h3>
 <p>As far as I can tell this is the first year the team was called the Landsharks, but the information I have through this time period is a little spotty. PLEASE REACH OUT IF YOU HAVE INFO</p>
