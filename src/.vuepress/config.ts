@@ -30,7 +30,7 @@ export default defineUserConfig({
     profile: {
       name: 'Captains',
       description: 'RoboSharks team captains',
-      avatar: 'https://www.adabit.org/shorkhehe.png',
+      avatar: '/logo.png',
       circle: true,
     },
     plugins: {
