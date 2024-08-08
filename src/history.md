@@ -47,7 +47,7 @@ permalink: /history
   <img src="/Mako_Image_Bad.jpg?url" alt="Mako">
   <div class="arrow" onclick="expandImage(this)">&#9660;</div>
 </div>
-<p>A completely new design, Mako had didn't have a conventional frame, instead utilizing a set of rails around the drybox which served as adjustable attachment points for the thrusters, camera, and manipulator. Designed for power and finesse over symmetricallity, Mako was capable of extremely fast forward movement and precise rotation.</p>
+<p>This year we went with a completely new design, Mako didn't have a conventional frame, instead utilizing a set of rails around the drybox which served as adjustable attachment points for the thrusters, camera, and manipulator. Designed for power and finesse over symmetricallity, Mako was capable of extremely fast forward movement and precise rotation.</p>
 <h2>Competition - MATE 2023</h2>
 <h3>Bubbles</h3>
 <div class="image-container">
