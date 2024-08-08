@@ -79,8 +79,8 @@ config:
 <div>
 
 
-### Contact Us
-Feel free to reach out if you have any questions or want to get involved!
+## Contact Us
+### Feel free to reach out if you have any questions or want to get involved!
 
 ::: tabs
 @tab Email
