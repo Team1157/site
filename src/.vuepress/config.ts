@@ -43,5 +43,5 @@ export default defineUserConfig({
   base: "/",
   lang: "en-US",
   title: "Robosharks",
-  description: "Mate ROV Team",
+  description: "1/2 Robot 1/2 Shark Mate ROV Team",
 })
