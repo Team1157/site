@@ -25,6 +25,7 @@ export default defineUserConfig({
   theme: plumeTheme({
   	footer: false,
     navbar: [
+    { text: 'Events', link: '/events' },
     { text: 'History', link: '/history' },
     ],
     profile: {
