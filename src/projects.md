@@ -12,7 +12,7 @@ permalink: /article/bhz8t2vj/
 
 #### Mako
 
-![Mako](/<Mako_Image_Bad.jpg>)
+![Mako](/Mako_Image_Bad.jpg?url)
 
 A completely new design, Mako had didn't have a conventional frame, instead utilizing a set of rails around the drybox which served as adjustable attachment points for the thrusters, camera, and manipulator. Designed for power and finesse over symmetricallity, Mako was capable of extremely fast forward movement and precise rotation.
 
@@ -22,7 +22,7 @@ A completely new design, Mako had didn't have a conventional frame, instead util
 
 #### Bubbles
 
-![Bubbles](/<Bubbles!.jpg>)
+![Bubbles](/Bubbles!.jpeg?url)
 
 An iteration of the earlier Boxfish ROV, Bubbles utilized a similar frame structure, but with 8 thrusters placed at the corners of the frame, allowing for near-symmetrical movement in any orientation. Designed to have pair of cameras and manipulators on both sides, Bubbles was able to quickly shift between tasks at ease, without needing precious time to swing the around to face the new focus.
 
@@ -32,7 +32,7 @@ An iteration of the earlier Boxfish ROV, Bubbles utilized a similar frame struct
 
 #### Boxfish
 
-![Boxfish](/<Boxfish.jpg>)
+![Boxfish](/Boxfish.jpg?url)
 
 ---
 
@@ -40,7 +40,7 @@ An iteration of the earlier Boxfish ROV, Bubbles utilized a similar frame struct
 
 #### Hammerhead
 
-![Hammerhead](https://adabit.org/banner.jpg)
+![Hammerhead](https://adabit.org/banner.jpg?url)
 
 Our first foray into the MATE ROV competition, Hammerhead was designed to be extremely versatile. The width of the front manipulator provided an extremely stable platform to move and interact with most objects she encountered.
 
@@ -48,7 +48,7 @@ Our first foray into the MATE ROV competition, Hammerhead was designed to be ext
 
 ### Sandshark
 
-![Sandshark](/<Rover.jpg>)
+![Sandshark](/Rover.JPG?url)
 
 #### Overland Long Distance Rover
 
@@ -58,7 +58,7 @@ Our first foray into the MATE ROV competition, Hammerhead was designed to be ext
 
 #### Gary
 
-![Gary](/<Gary_minus_buffer.jpg>)
+![Gary](/Gary_minus_buffer.jpg?url)
 
 ---
 
