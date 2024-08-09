@@ -78,8 +78,13 @@ config:
 
 ### Feel free to reach out if you have any questions or want to get involved!
 
-::: tabs @tab Email `captains@team1157.org` @tab Discord
-`https://discord.gg/TtNwjxKvZm` @tab Address
+<!-- prettier-ignore -->
+::: tabs
+@tab Email
+```captains@team1157.org```
+@tab Discord
+```https://discord.gg/TtNwjxKvZm```
+@tab Address
 
 ```
 Boulder High School
