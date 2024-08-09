@@ -42,13 +42,13 @@ export default defineUserConfig({
     profile: {
       name: 'Captains',
       description: 'RoboSharks team captains',
-      avatar: '/logo.png',
+      avatar: '/img/logo.png',
       circle: true,
     },
     plugins: {
       search: false,
     },
-    logo: '/logo.png',
+    logo: '/img/logo.png',
     appearance: 'force-dark',
     editLink: true,
   }),
