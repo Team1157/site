@@ -12,15 +12,17 @@ Follow these steps to get a local copy of the project up and running for develop
 1. Clone the repo:
    ```
    git clone https://github.com/Team1157/site
-
+   ```
 2. Navigate to the project directory:
    ```
    cd site
+   ```
 
 3. Install dependencies:
    ```
    pnpm i
-
+   ```
 4. Start the development server:
    ```
    pnpm src:dev
+   ```
