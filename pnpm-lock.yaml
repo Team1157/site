@@ -6,6 +6,10 @@ settings:
 
 importers:
   .:
+    dependencies:
+      husky:
+        specifier: ^9.1.4
+        version: 9.1.4
     devDependencies:
       '@vuepress/bundler-vite':
         specifier: 2.0.0-rc.14
@@ -2379,6 +2383,14 @@ packages:
         integrity: sha512-74kytxOUSvNbjrT9KisAbaTZ/eJwD/LrbM/kh5j0IhPuJzwuA19dWvniFGwBzN9rVjg+O/e+F310PjObDXS+9Q==,
       }
     engines: { node: '>=18.18.0' }
+
+  husky@9.1.4:
+    resolution:
+      {
+        integrity: sha512-bho94YyReb4JV7LYWRWxZ/xr6TtOTt8cMfmQ39MQYJ7f/YE268s3GdghGwi+y4zAeqewE5zYLvuhV0M0ijsDEA==,
+      }
+    engines: { node: '>=18' }
+    hasBin: true
 
   ignore@5.3.1:
     resolution:
@@ -5283,6 +5295,8 @@ snapshots:
   human-signals@2.1.0: {}
 
   human-signals@7.0.0: {}
+
+  husky@9.1.4: {}
 
   ignore@5.3.1: {}
 
