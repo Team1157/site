@@ -38,7 +38,8 @@ development
   ```
   pnpm src:dev
   ```
-- To make your code follow the styling:
+- (Optional, commiting will automatically do thus) To make your code follow the
+  styling:
   ```
   pnpm exec prettier . --write
   ```
