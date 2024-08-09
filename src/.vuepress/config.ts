@@ -1,14 +1,20 @@
-import { defineUserConfig } from 'vuepress'
-import { viteBundler } from '@vuepress/bundler-vite'
-import { plumeTheme } from 'vuepress-theme-plume'
+import { defineUserConfig } from 'vuepress';
+import { viteBundler } from '@vuepress/bundler-vite';
+import { plumeTheme } from 'vuepress-theme-plume';
 
 export default defineUserConfig({
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    [
+      'meta',
+      { name: 'apple-mobile-web-app-status-bar-style', content: 'black' },
+    ],
     ['meta', { property: 'og:type', content: 'article' }],
-    ['script', {}, `
+    [
+      'script',
+      {},
+      `
 		function expandImage(element) {
 		  var container = element.parentElement;
 		  container.classList.toggle('expanded');
@@ -21,16 +27,17 @@ export default defineUserConfig({
 		    element.innerHTML = '&#9660;'; // Down arrow
 		  }
 		}
-    `]
+    `,
+    ],
   ],
   bundler: viteBundler(),
   theme: plumeTheme({
-  	footer: false,
+    footer: false,
     navbar: [
-    { text: 'Home', link: '/' },
-    { text: 'Events', link: '/events' },
-    { text: 'Projects', link: '/projects' },
-    { text: 'History', link: '/history' },
+      { text: 'Home', link: '/' },
+      { text: 'Events', link: '/events' },
+      { text: 'Projects', link: '/projects' },
+      { text: 'History', link: '/history' },
     ],
     profile: {
       name: 'Captains',
@@ -39,14 +46,14 @@ export default defineUserConfig({
       circle: true,
     },
     plugins: {
-	  search: false,
-	},
-	logo: '/logo.png',
-	appearance: 'force-dark',
-	editLink: true
+      search: false,
+    },
+    logo: '/logo.png',
+    appearance: 'force-dark',
+    editLink: true,
   }),
-  base: "/",
-  lang: "en-US",
-  title: "Robosharks",
-  description: "1/2 Robot 1/2 Shark Mate ROV Team",
-})
+  base: '/',
+  lang: 'en-US',
+  title: 'Robosharks',
+  description: '1/2 Robot 1/2 Shark Mate ROV Team',
+});

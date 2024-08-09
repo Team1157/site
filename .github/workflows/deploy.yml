@@ -1,4 +1,3 @@
-
 name: fancy deploy
 
 on:
@@ -25,7 +24,6 @@ jobs:
         with:
           version: 8
 
-
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
@@ -37,14 +35,14 @@ jobs:
           corepack enable
           pnpm install --frozen-lockfile
 
-      - name: Build 
+      - name: Build
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
           pnpm run src:build
           > src/.vuepress/dist/.nojekyll
 
-      - name: Deploy 
+      - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           # Deploy Docs
