@@ -1,6 +1,6 @@
-import { defineUserConfig } from 'vuepress';
-import { viteBundler } from '@vuepress/bundler-vite';
-import { plumeTheme } from 'vuepress-theme-plume';
+import { defineUserConfig } from 'vuepress'
+import { viteBundler } from '@vuepress/bundler-vite'
+import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
   head: [
@@ -56,4 +56,4 @@ export default defineUserConfig({
   lang: 'en-US',
   title: 'Robosharks',
   description: '1/2 Robot 1/2 Shark Mate ROV Team',
-});
+})
