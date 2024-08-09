@@ -14,6 +14,9 @@ importers:
       '@vuepress/theme-default':
         specifier: 2.0.0-rc.40
         version: 2.0.0-rc.40(typescript@5.5.4)(vuepress@2.0.0-rc.14(@vuepress/bundler-vite@2.0.0-rc.14(@types/node@22.1.0)(sass@1.77.8)(typescript@5.5.4))(typescript@5.5.4)(vue@3.4.36(typescript@5.5.4)))
+      prettier:
+        specifier: 3.3.3
+        version: 3.3.3
       vue:
         specifier: ^3.4.36
         version: 3.4.36(typescript@5.5.4)
@@ -1866,6 +1869,11 @@ packages:
 
   preact@10.23.1:
     resolution: {integrity: sha512-O5UdRsNh4vdZaTieWe3XOgSpdMAmkIYBCT3VhQDlKrzyCm8lUYsk0fmVEvoQQifoOjFRTaHZO69ylrzTW2BH+A==}
+
+  prettier@3.3.3:
+    resolution: {integrity: sha512-i2tDNA0O5IrMO757lfrdQZCc2jPNDVntV0m/+4whiDfWaTKfMNgR7Qz0NAeGz/nRqF4m5/6CLzbP4/liHt12Ew==}
+    engines: {node: '>=14'}
+    hasBin: true
 
   pretty-ms@9.1.0:
     resolution: {integrity: sha512-o1piW0n3tgKIKCwk2vpM/vOV13zjJzvP37Ioze54YlTHE06m4tjEbzg9WsKkvTuyYln2DHjo5pY4qrZGI0otpw==}
@@ -4297,6 +4305,8 @@ snapshots:
       source-map-js: 1.2.0
 
   preact@10.23.1: {}
+
+  prettier@3.3.3: {}
 
   pretty-ms@9.1.0:
     dependencies:
