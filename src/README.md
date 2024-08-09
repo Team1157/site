@@ -8,12 +8,12 @@ config:
   -
     type: banner
     full: true
-    banner: bg.png
+    banner: img/bg.png
     hero:
       name: Robo​sharks
       tagline: MATE ROV Team
       image: 
-        src: /images/robosharks-logo.png
+        src: img/logo.png
         alt: RoboSharks Team Logo
       actions:
         -
@@ -37,7 +37,7 @@ config:
     title: About Us
     description: Founded in 2003, the Robosharks is a MATE ROV underwater robotics competition team based in Boulder, Colorado. Our team is made up of students from Boulder High School, and we are dedicated to inspiring young people to be science and technology leaders by engaging them in exciting programs that build science, engineering, and technology skills that inspire innovation and foster well-rounded life capabilities..
     image:
-      src: /silly.jpeg
+      src: /img/silly.jpeg
       alt: RoboSharks Team
   -
     type: features
@@ -71,7 +71,7 @@ config:
     title: Join Now!
     description: Become part of the Robosharks and dive into the world of underwater robotics. We are open to any and all Boulder High students of any age, and no experience with robotics/computers is needed and you get free snacks! 
     image:
-      src: /nav2.jpeg
+      src: /img/nav2.jpeg
       alt: RoboSharks Team
   -
     type: custom
