@@ -122,6 +122,42 @@ export default defineUserConfig({
          .card-text {
              font-size: 14px;
          }
+         
+         @media screen and (max-width: 768px) {
+           .contentuwu {
+             flex-direction: column;
+           }
+         
+           .text-content h2,
+           .text-content p {
+             margin-left: 0;
+             text-align: center;
+           }
+         
+           .team-image, .team-image-right {
+             max-width: 100%;
+             margin: 20px 0;
+             order: -1;
+           }
+         
+           .card-container {
+             grid-template-columns: 1fr;
+           }
+         }
+         
+         @media screen and (max-width: 480px) {
+           .text-content h2 {
+             font-size: 1.5rem;
+           }
+         
+           .text-content p {
+             font-size: 1rem;
+           }
+         
+           .card {
+             padding: 20px;
+           }
+         }
     `,
     ],
   ],
