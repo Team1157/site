@@ -4,7 +4,7 @@
 [![Dependabot Updates](https://github.com/Team1157/site/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Team1157/site/actions/workflows/dependabot/dependabot-updates)
 [![Pages Build Deployment](https://github.com/Team1157/site/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Team1157/site/actions/workflows/pages/pages-build-deployment)
 
-> [Note]  
+> [!Note]  
 > The website is temporarily available at [https://1157.adabit.org](https://1157.adabit.org) until the actual domain is renewed.
 
 ## Getting Started
