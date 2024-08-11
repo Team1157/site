@@ -34,6 +34,7 @@ export default defineUserConfig({
   theme: plumeTheme({
     footer: false,
     navbar: [
+      { text: 'Donate', link: '/donate' },
       { text: 'About', link: '/#about' },
       { text: 'Events', link: '/events' },
       { text: 'Projects', link: '/projects' },
