@@ -105,7 +105,7 @@ export default defineUserConfig({
              padding: 35px;
              border-radius: 20px;
              text-align: center;
-             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+             box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
              transition: transform 0.2s;
          }
          .card:hover {
