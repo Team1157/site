@@ -43,7 +43,7 @@ config:
     color: #ffffff;
   }
   
-  .content {
+  .contentuwu {
     display: flex;
     align-items: center;
   }
@@ -142,7 +142,7 @@ config:
 </style>
 <section id="about">
 <div class="about-us">
-  <div class="content">
+  <div class="contentuwu">
     <div class="text-content">
       <h2>About us</h2>
       <p>
@@ -191,7 +191,7 @@ config:
 <br></br>
 
 <div class="join-now">
-  <div class="content">
+  <div class="contentuwu">
     <img src="/img/nav2.jpeg" alt="RoboSharks Team" class="team-image-right">
     <div class="text-content">
       <h2>Join Now!</h2>
