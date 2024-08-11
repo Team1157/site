@@ -1,45 +1,53 @@
-[![fancy deploy](https://github.com/Team1157/site/actions/workflows/deploy.yml/badge.svg)](https://github.com/Team1157/site/actions/workflows/deploy.yml)
-[![Dependabot Updates](https://github.com/Team1157/site/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Team1157/site/actions/workflows/dependabot/dependabot-updates)
-[![pages-build-deployment](https://github.com/Team1157/site/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Team1157/site/actions/workflows/pages/pages-build-deployment)
+# Boulder High Landsharks Website
 
-> [!NOTE]  
-> Until we renew the actual domain it's available at https://1157.adabit.org
+[![Fancy Deploy](https://github.com/Team1157/site/actions/workflows/deploy.yml/badge.svg)](https://github.com/Team1157/site/actions/workflows/deploy.yml)
+[![Dependabot Updates](https://github.com/Team1157/site/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/Team1157/site/actions/workflows/dependabot/dependabot-updates)
+[![Pages Build Deployment](https://github.com/Team1157/site/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Team1157/site/actions/workflows/pages/pages-build-deployment)
+
+> **Note**  
+> The website is temporarily available at [https://1157.adabit.org](https://1157.adabit.org) until the actual domain is renewed.
 
 ## Getting Started
 
-Follow these steps to get a local copy of the project up and running for
-development
+Follow these steps to get a local copy of the project up and running for development.
 
 ### Prerequisites
 
-- Ensure you have an adequate version of [Node.js](https://nodejs.org/) and pnpm
-  installed
+- Ensure you have a suitable version of [Node.js](https://nodejs.org/) and [pnpm](https://pnpm.io/) installed.
 
 ### Installation
 
-1. Clone the repo:
-   ```
+1. **Clone the repository:**
+
+   ```bash
    git clone https://github.com/Team1157/site
    ```
-2. Navigate to the project directory:
 
-   ```
+2. **Navigate to the project directory:**
+
+   ```bash
    cd site
    ```
 
-3. Install dependencies:
-   ```
-   pnpm i
+3. **Install dependencies:**
+
+   ```bash
+   pnpm install
    ```
 
 ### Development
 
-- To start the development server:
-  ```
+- **Start the development server:**
+
+  ```bash
   pnpm src:dev
   ```
-- (Optional, commiting will automatically do this) To make your code follow the
-  styling:
-  ```
+
+- **(Optional, commiting will do this for you) Apply code styling with Prettier:**
+
+  ```bash
   pnpm exec prettier . --write
   ```
+
+  > **Tip**  
+  > Prettier will automatically format your code upon committing.
