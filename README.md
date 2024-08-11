@@ -49,5 +49,5 @@ Follow these steps to get a local copy of the project up and running for develop
   pnpm exec prettier . --write
   ```
 
-  > **Tip**  
-  > Prettier will automatically format your code upon committing.
+> [!TIP]
+> Prettier will automatically format your code upon committing.
