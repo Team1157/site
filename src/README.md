@@ -27,6 +27,7 @@ config:
         - theme: alt
           text: Instagram →
           link: https://www.instagram.com/boulder_high_robotics
+
   - type: text-image
     title: About Us
     description:

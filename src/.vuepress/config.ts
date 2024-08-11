@@ -4,7 +4,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
   head: [
-    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+    ['meta', { name: 'theme-color', content: '#1b1b1f' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     [
       'meta',
