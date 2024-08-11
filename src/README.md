@@ -116,12 +116,12 @@ config:
   .card-container {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      gap: 20px;
+      gap: 30px;
   }
   .card {
-      padding: 20px;
-      border-radius: 10px;
-      text-align: left;
+      padding: 35px;
+      border-radius: 20px;
+      text-align: center;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
       transition: transform 0.2s;
   }
