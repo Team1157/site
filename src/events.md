@@ -50,7 +50,7 @@ permalink: /events
   </tr>
   <tr>
     <td>2024</td>
-    <td>Mate Championship</td>
+    <td>MATE World Championships</td>
     <td></td>
   </tr>
   <tr>
@@ -59,19 +59,29 @@ permalink: /events
     <td>Ranger 1st Place, Dan Zahner Memorial Award</td>
   </tr>
   <tr>
+   <td>2023</td>
+   <td>MATE World Championships</td>
+   <td>Best Engineering Presentation</td>
+  </tr>
+  <tr>
     <td>2023</td>
     <td>Colorado MATE Regional</td>
-    <td>Dan Zahner Memorial Award</td>
+    <td>Ranger 1st Place, Dan Zahner Memorial Award</td>
   </tr>
   <tr>
     <td>2022</td>
-    <td>Mate Championship</td>
+    <td>MATE World Championships</td>
     <td></td>
   </tr>
   <tr>
     <td>2022</td>
     <td>Colorado MATE Regional</td>
-    <td>Ranger 1st Place</td>
+    <td>Ranger 2nd Place</td>
+  </tr>
+  <tr>
+   <td>2021</td>
+   <td>MATE World Championships</td>
+   <td>Guts and Glory Award</td>
   </tr>
   <tr>
     <td>2021</td>

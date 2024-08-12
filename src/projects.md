@@ -44,7 +44,7 @@ permalink: /projects
 <h2>Competition - MATE 2021</h2>
 <h3>Hammerhead</h3>
 <img src="https://adabit.org/banner.jpg" alt="Hammerhead ROV from MATE 2021">
-<p>Our first foray into the MATE ROV competition, Hammerhead was designed to be extremely versatile. The width of the front manipulator provided an extremely stable platform to move and interact with most objects she encountered.</p>
+
 
 <h2>Competition - FRC 2020</h2>
 <h3>Gary</h3>

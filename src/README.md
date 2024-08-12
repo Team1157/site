@@ -100,7 +100,7 @@ config:
 <!-- prettier-ignore -->
 ::: tabs
 @tab Email
-```captains@team1157.org```
+```1157landsharkrobotics@gmail.com```
 @tab Discord
 ```https://discord.gg/TtNwjxKvZm```
 @tab Address
