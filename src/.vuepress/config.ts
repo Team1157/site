@@ -178,6 +178,7 @@ export default defineUserConfig({
       { text: 'Events', link: '/events' },
       { text: 'Projects', link: '/projects' },
       { text: 'History', link: '/history' },
+      { text: 'Photos', link: '/photos' },
     ],
     profile: {
       name: 'Captains',

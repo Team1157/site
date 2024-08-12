@@ -67,7 +67,7 @@ permalink: /photos
 
 <ClientOnly>
 <div class="image-viewer">
-    {process_directory('src/.vuepress/public/img/')}
+    {process_directory('src/.vuepress/public/img/archive')}
 </div>
 </ClientOnly>
 
