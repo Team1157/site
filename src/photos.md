@@ -1,7 +1,7 @@
 ---
 author: written by ada t
 title: Photos
-createTime: 2024/08/11 21:59:28
+createTime: 2024/08/12 10:27:38
 permalink: /photos
 ---
 
@@ -15,10 +15,9 @@ permalink: /photos
             <p class="image-title">Soldering_Work.jpg</p>
             <p class="image-date">2024-08-06</p>
         </div>
-        <br></br>
     </a>
 </div>
-                
+<br></br>                
 <div class="image-item">
     <a href="/2024-08-06/Boxfish.jpg" target="_blank" class="image-link">
         <img src="/thumbnails/thumb_Boxfish.jpg?url" alt="Boxfish.jpg" loading="lazy">
@@ -26,10 +25,9 @@ permalink: /photos
             <p class="image-title">Boxfish.jpg</p>
             <p class="image-date">2024-08-06</p>
         </div>
-        <br></br>
     </a>
 </div>
-                
+<br></br>                
 <div class="image-item">
     <a href="/2024-08-06/Happy_computer.jpg" target="_blank" class="image-link">
         <img src="/thumbnails/thumb_Happy_computer.jpg?url" alt="Happy_computer.jpg" loading="lazy">
@@ -37,10 +35,9 @@ permalink: /photos
             <p class="image-title">Happy_computer.jpg</p>
             <p class="image-date">2024-08-06</p>
         </div>
-        <br></br>
     </a>
 </div>
-                
+<br></br>                
 <div class="image-item">
     <a href="/2024-08-06/Bubbles_again.jpg" target="_blank" class="image-link">
         <img src="/thumbnails/thumb_Bubbles_again.jpg?url" alt="Bubbles_again.jpg" loading="lazy">
@@ -48,10 +45,9 @@ permalink: /photos
             <p class="image-title">Bubbles_again.jpg</p>
             <p class="image-date">2024-08-06</p>
         </div>
-        <br></br>
     </a>
 </div>
-                
+<br></br>                
 <div class="image-item">
     <a href="/2024-08-06/Bubbles!.jpeg" target="_blank" class="image-link">
         <img src="/thumbnails/thumb_Bubbles!.jpeg?url" alt="Bubbles!.jpeg" loading="lazy">
@@ -59,10 +55,9 @@ permalink: /photos
             <p class="image-title">Bubbles!.jpeg</p>
             <p class="image-date">2024-08-06</p>
         </div>
-        <br></br>
     </a>
 </div>
-                
+<br></br>                
 <div class="image-item">
     <a href="/2024-08-06/CNC_Mentoring.JPG" target="_blank" class="image-link">
         <img src="/thumbnails/thumb_CNC_Mentoring.JPG?url" alt="CNC_Mentoring.JPG" loading="lazy">
@@ -70,10 +65,9 @@ permalink: /photos
             <p class="image-title">CNC_Mentoring.JPG</p>
             <p class="image-date">2024-08-06</p>
         </div>
-        <br></br>
     </a>
 </div>
-                
+<br></br>                
 <div class="image-item">
     <a href="/2024-08-06/Buttshark_Helmet.jpg" target="_blank" class="image-link">
         <img src="/thumbnails/thumb_Buttshark_Helmet.jpg?url" alt="Buttshark_Helmet.jpg" loading="lazy">
@@ -81,10 +75,9 @@ permalink: /photos
             <p class="image-title">Buttshark_Helmet.jpg</p>
             <p class="image-date">2024-08-06</p>
         </div>
-        <br></br>
     </a>
 </div>
-                
+<br></br>                
 <div class="image-item">
     <a href="/2024-08-06/Rover.JPG" target="_blank" class="image-link">
         <img src="/thumbnails/thumb_Rover.JPG?url" alt="Rover.JPG" loading="lazy">
@@ -92,10 +85,9 @@ permalink: /photos
             <p class="image-title">Rover.JPG</p>
             <p class="image-date">2024-08-06</p>
         </div>
-        <br></br>
     </a>
 </div>
-                
+<br></br>                
 <div class="image-item">
     <a href="/2024-08-06/Regional_Coding.jpeg" target="_blank" class="image-link">
         <img src="/thumbnails/thumb_Regional_Coding.jpeg?url" alt="Regional_Coding.jpeg" loading="lazy">
@@ -103,10 +95,9 @@ permalink: /photos
             <p class="image-title">Regional_Coding.jpeg</p>
             <p class="image-date">2024-08-06</p>
         </div>
-        <br></br>
     </a>
 </div>
-                
+<br></br>                
 <div class="image-item">
     <a href="/2024-05-20/Mako_Image_Bad.jpg" target="_blank" class="image-link">
         <img src="/thumbnails/thumb_Mako_Image_Bad.jpg?url" alt="Mako_Image_Bad.jpg" loading="lazy">
@@ -114,10 +105,9 @@ permalink: /photos
             <p class="image-title">Mako_Image_Bad.jpg</p>
             <p class="image-date">2024-05-20</p>
         </div>
-        <br></br>
     </a>
 </div>
-                
+<br></br>                
 <div class="image-item">
     <a href="/2024-08-06/Summer Working.jpg" target="_blank" class="image-link">
         <img src="/thumbnails/thumb_Summer Working.jpg?url" alt="Summer Working.jpg" loading="lazy">
@@ -125,10 +115,9 @@ permalink: /photos
             <p class="image-title">Summer Working.jpg</p>
             <p class="image-date">2024-08-06</p>
         </div>
-        <br></br>
     </a>
 </div>
-                
+<br></br>                
 <div class="image-item">
     <a href="/2024-08-06/Worlds_Deck_Team.jpg" target="_blank" class="image-link">
         <img src="/thumbnails/thumb_Worlds_Deck_Team.jpg?url" alt="Worlds_Deck_Team.jpg" loading="lazy">
@@ -136,10 +125,9 @@ permalink: /photos
             <p class="image-title">Worlds_Deck_Team.jpg</p>
             <p class="image-date">2024-08-06</p>
         </div>
-        <br></br>
     </a>
 </div>
-                
+<br></br>                
 <div class="image-item">
     <a href="/2024-08-06/Gary_minus_buffer.jpg" target="_blank" class="image-link">
         <img src="/thumbnails/thumb_Gary_minus_buffer.jpg?url" alt="Gary_minus_buffer.jpg" loading="lazy">
@@ -147,10 +135,9 @@ permalink: /photos
             <p class="image-title">Gary_minus_buffer.jpg</p>
             <p class="image-date">2024-08-06</p>
         </div>
-        <br></br>
     </a>
 </div>
-                
+<br></br>                
 </div>
 </ClientOnly>
 
@@ -172,7 +159,7 @@ permalink: /photos
 
 .image-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 20px;
     margin-bottom: 40px;
 }

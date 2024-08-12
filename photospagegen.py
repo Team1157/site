@@ -48,10 +48,9 @@ def create_image_viewer():
             <p class="image-title">{item}</p>
             <p class="image-date">{folder_name}</p>
         </div>
-        <br></br>
     </a>
 </div>
-                '''
+<br></br>                '''
         
         return html_content
 
