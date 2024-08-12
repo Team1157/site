@@ -1,7 +1,7 @@
 ---
 author: written by ada t
 title: Photos
-createTime: 2024/08/12 10:27:38
+createTime: 2024/08/12 10:49:31
 permalink: /photos
 ---
 
@@ -143,25 +143,19 @@ permalink: /photos
 
 <style>
 .image-viewer {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-.folder-title {
-    font-size: 24px;
-    margin-top: 40px;
-    margin-bottom: 20px;
-    color: #333;
-    border-bottom: 2px solid #eee;
-    padding-bottom: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-bottom: 40px;
+    width: 100%; /* Ensure the container takes the full width */
 }
 
 .image-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(1, 1fr);
     gap: 20px;
     margin-bottom: 40px;
+    width: 100%; /* Ensure the grid takes the full width */
 }
 
 .image-item {
@@ -171,6 +165,7 @@ permalink: /photos
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
     aspect-ratio: 1 / 1;
+    width: 100%; /* Ensure each grid item fills its column */
 }
 
 .image-item:hover {
