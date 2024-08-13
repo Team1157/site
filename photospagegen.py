@@ -50,7 +50,7 @@ def create_image_viewer():
         </div>
     </a>
 </div>
-<br></br>                '''
+                '''
         
         return html_content
 
@@ -74,15 +74,10 @@ permalink: /photos
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     margin-bottom: 40px;
-    width: 100%; /* Ensure the container takes the full width */
+    width: 100%;
 }}
-
 .image-grid {{
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    gap: 20px;
-    margin-bottom: 40px;
-    width: 100%; /* Ensure the grid takes the full width */
+    display: contents; 
 }}
 
 .image-item {{
@@ -92,7 +87,7 @@ permalink: /photos
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
     aspect-ratio: 1 / 1;
-    width: 100%; /* Ensure each grid item fills its column */
+    width: 100%; 
 }}
 
 .image-item:hover {{
