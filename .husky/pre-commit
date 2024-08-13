@@ -1,3 +1,3 @@
-npx lint-staged
 python photospagegen.py
+npx lint-staged
 
