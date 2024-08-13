@@ -43,11 +43,8 @@ Follow these steps to get a local copy of the project up and running for develop
   pnpm src:dev
   ```
 
-- **(Optional, commiting will do this for you) Apply code styling with Prettier:**
-
-  ```bash
-  pnpm exec prettier . --write
-  ```
-
 > [!TIP]
 > Prettier will automatically format your code upon committing.
+
+> [!TIP]
+> To add photos to the photos page put them in ```public/img/archive``` and they'll automatically be added to the page on commit.
