@@ -42,13 +42,13 @@ def create_image_viewer():
                 # Add image to HTML content
                 html_content += f'''
 <div class="image-item">
-    <a href="/{os.path.join(relative_path, folder_name, item)}" target="_blank" class="image-link">
+    <div target="_blank" class="image-link">
         <img src="/thumbnails/{thumbnail_name}?url" alt="{item}" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">{item}</p>
-            <p class="image-date">uploaded on {folder_name}</p>
+            <p class="image-date">Uploaded on {folder_name}</p>
         </div>
-    </a>
+    </div>
 </div>
                 '''
         
