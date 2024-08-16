@@ -13,7 +13,7 @@ Follow these steps to get a local copy of the project up and running for develop
 
 ### Prerequisites
 
-- Ensure you have a suitable version of [Node.js](https://nodejs.org/) and [pnpm](https://pnpm.io/) installed.
+- Ensure you have a suitable version of [Node.js](https://nodejs.org/), [npm](https://www.npmjs.com/), [python3](https://www.python.org/), [pil](https://pypi.org/project/image/), and [pnpm](https://pnpm.io/) installed
 
 ### Installation
 
