@@ -1,3 +1,4 @@
 python photospagegen.py
 npx lint-staged
 git add src/photos.md
+git add public

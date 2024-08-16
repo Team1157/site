@@ -1,23 +1,13 @@
 ---
-author: written by ada t
+author: written by ada t 
 title: Photos
-createTime: 2024/08/15 22:21:04
+createTime: 2024/08/15 22:31:45
 permalink: /photos
 ---
 
 <ClientOnly>
 <div class="image-viewer">
     
-<div class="image-item">
-    <a href="/2024-08-15/2024_Captains.jpg" target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_2024_Captains.jpg?url" alt="2024_Captains.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">2024_Captains.jpg</p>
-            <p class="image-date">2024-08-15</p>
-        </div>
-    </a>
-</div>
-                
 <div class="image-item">
     <a href="/2024-08-15/20240619_212610.jpg" target="_blank" class="image-link">
         <img src="/thumbnails/thumb_20240619_212610.jpg?url" alt="20240619_212610.jpg" loading="lazy">
@@ -43,6 +33,16 @@ permalink: /photos
         <img src="/thumbnails/thumb_20240621_115410.jpg?url" alt="20240621_115410.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">20240621_115410.jpg</p>
+            <p class="image-date">2024-08-15</p>
+        </div>
+    </a>
+</div>
+                
+<div class="image-item">
+    <a href="/2024-08-15/2024_Captains.jpg" target="_blank" class="image-link">
+        <img src="/thumbnails/thumb_2024_Captains.jpg?url" alt="2024_Captains.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">2024_Captains.jpg</p>
             <p class="image-date">2024-08-15</p>
         </div>
     </a>
