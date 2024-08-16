@@ -1,7 +1,7 @@
 ---
-author: written by ada t
+author: written by ada t 
 title: Photos
-createTime: 2024/08/12 23:09:05
+createTime: 2024/08/15 22:05:52
 permalink: /photos
 ---
 
@@ -134,6 +134,36 @@ permalink: /photos
         <div class="image-overlay">
             <p class="image-title">Gary_minus_buffer.jpg</p>
             <p class="image-date">2024-08-06</p>
+        </div>
+    </a>
+</div>
+                
+<div class="image-item">
+    <a href="/2024-06-07/FullTeamPhoto.jpeg" target="_blank" class="image-link">
+        <img src="/thumbnails/thumb_FullTeamPhoto.jpeg?url" alt="FullTeamPhoto.jpeg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">FullTeamPhoto.jpeg</p>
+            <p class="image-date">2024-06-07</p>
+        </div>
+    </a>
+</div>
+                
+<div class="image-item">
+    <a href="/2024-06-07/MakoImage.jpg" target="_blank" class="image-link">
+        <img src="/thumbnails/thumb_MakoImage.jpg?url" alt="MakoImage.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">MakoImage.jpg</p>
+            <p class="image-date">2024-06-07</p>
+        </div>
+    </a>
+</div>
+                
+<div class="image-item">
+    <a href="/2024-06-07/SummerWork.jpg" target="_blank" class="image-link">
+        <img src="/thumbnails/thumb_SummerWork.jpg?url" alt="SummerWork.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">SummerWork.jpg</p>
+            <p class="image-date">2024-06-07</p>
         </div>
     </a>
 </div>
