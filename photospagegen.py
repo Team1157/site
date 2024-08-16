@@ -46,7 +46,7 @@ def create_image_viewer():
         <img src="/thumbnails/{thumbnail_name}?url" alt="{item}" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">{item}</p>
-            <p class="image-date">{folder_name}</p>
+            <p class="image-date">uploaded on {folder_name}</p>
         </div>
     </a>
 </div>
