@@ -1,5 +1,4 @@
 {
-  "extends": "tsconfig-vuepress/base.json",
   "compilerOptions": {
     "allowSyntheticDefaultImports": true,
     "lib": ["DOM", "ES2022"],
