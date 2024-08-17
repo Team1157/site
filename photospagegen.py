@@ -138,6 +138,15 @@ permalink: /photos
     font-size: 12px;
     opacity: 0.8;
 }}
+
+@media (max-width: 719px) {{
+    .image-overlay {{
+        display: none;
+    }}
+    .image-item:hover {{
+        transform: none;
+    }}
+}}
 </style>
 '''
 
