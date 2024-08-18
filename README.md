@@ -86,7 +86,7 @@ VuePress allows you to write content in both Markdown and html
 
    [Link to another page](./another-page.md)
 
-   ![Image description](./path/to/image.jpg)
+   ![Image description](./path/to/image.jpg?url)
    ```
 
 4. You can use Vue components within Markdown files:
