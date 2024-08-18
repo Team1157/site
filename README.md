@@ -51,10 +51,11 @@ Ensure you have a suitable version of [Node.js](https://nodejs.org/),
   pnpm src:dev
   ```
 
-> [!Tip] Prettier will automatically format your code upon committing.
+> [!Tip]
+> Prettier will automatically format your code upon committing.
 
-> [!Tip] To add photos to the photos page, put them in `public/img/archive`, and
-> they'll automatically be added to the page on commit.
+> [!Tip]
+> To add photos to the photos page, put them in `public/img/archive`, and they'll automatically be added to the page on commit.
 
 ## Writing Pages for VuePress
 
