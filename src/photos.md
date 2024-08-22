@@ -12,7 +12,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_1.jpg?url" alt="1.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">1.jpg</p>
+            <p class="image-title">Gary.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
@@ -42,7 +42,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_2023botandcomputer.jpg?url" alt="2023botandcomputer.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">2023botandcomputer.jpg</p>
+            <p class="image-title">2023_Engineering_Presentation.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
@@ -52,7 +52,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_20240619_212610.jpg?url" alt="20240619_212610.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">20240619_212610.jpg</p>
+            <p class="image-title">Worlds_break2024.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
@@ -62,7 +62,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_20240621_093820.jpg?url" alt="20240621_093820.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">20240621_093820.jpg</p>
+            <p class="image-title">Worlds_Interview2024.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
@@ -72,7 +72,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_20240621_115410.jpg?url" alt="20240621_115410.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">20240621_115410.jpg</p>
+            <p class="image-title">Worlds_Testing2024.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
@@ -192,7 +192,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_DSC_3726.jpg?url" alt="DSC_3726.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">DSC_3726.jpg</p>
+            <p class="image-title">Shark_Attack.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
@@ -202,7 +202,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_DSC_3727.jpg?url" alt="DSC_3727.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">DSC_3727.jpg</p>
+            <p class="image-title">Regional_2023.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
@@ -212,7 +212,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_DSC_3733.jpg?url" alt="DSC_3733.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">DSC_3733.jpg</p>
+            <p class="image-title">Bubbles_Poolside.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
@@ -222,7 +222,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_DSC_3750.jpg?url" alt="DSC_3750.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">DSC_3750.jpg</p>
+            <p class="image-title">Ranger_Demo2023.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
@@ -232,7 +232,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_FullTeamPhoto.jpg?url" alt="FullTeamPhoto.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">FullTeamPhoto.jpg</p>
+            <p class="image-title">FullTeamPhoto2024.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
@@ -262,7 +262,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_IMG_1542.jpg?url" alt="IMG_1542.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">IMG_1542.jpg</p>
+            <p class="image-title">Nav3_Work.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
@@ -272,7 +272,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_IMG_1545.jpg?url" alt="IMG_1545.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">IMG_1545.jpg</p>
+            <p class="image-title">Nav_Break.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
@@ -282,7 +282,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_IMG_2280.jpg?url" alt="IMG_2280.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">IMG_2280.jpg</p>
+            <p class="image-title">Nav1_Work.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
@@ -292,7 +292,7 @@ permalink: /photos
     <div target="_blank" class="image-link">
         <img src="/thumbnails/thumb_Mako_Image_Bad.jpg?url" alt="Mako_Image_Bad.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Mako_Image_Bad.jpg</p>
+            <p class="image-title">Mako_Standing.jpg</p>
             <p class="image-date">Uploaded on 2024-08-17</p>
         </div>
     </div>
