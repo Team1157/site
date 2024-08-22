@@ -116,6 +116,16 @@ VuePress allows you to write content in both Markdown and html
 Remember to restart the development server after adding new pages to see the
 changes reflected in the navigation.
 
+### Photos page databse
+The photos page uses the database in ```public/photos.db``` to store upload time, its layed out like
+
+| id | file_name                 | file_path                 | upload_date          |
+|----|---------------------------|---------------------------|----------------------|
+|  1 | 1.jpg                     | 1.jpg                     | 2024-08-21 22:24:42  |
+|  2 | 2022-2023electrical.jpg   | 2022-2023electrical.jpg   | 2024-08-21 22:24:42  |
+|  3 | 2022kcmtalliance.jpg      | 2022kcmtalliance.jpg      | 2024-08-21 22:24:42  |
+|  4 | 2023botandcomputer.jpg    | 2023botandcomputer.jpg    | 2024-08-21 22:24:42  |
+
 ## Deployment
 
 The website is automatically deployed using GitHub Actions. Push your changes to
