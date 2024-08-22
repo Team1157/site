@@ -1,17 +1,23 @@
 import os
-import shutil
+import sqlite3
 from PIL import Image
 from datetime import datetime
 
 def create_image_viewer():
-    # Create output directory
-    output_dir = 'src'
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    # Database setup for a very practical and demure use of sqlite
+    db_path = 'src/.vuepress/public/photos.db'
+    conn = sqlite3.connect(db_path)
+    c = conn.cursor()
     
-    # Create thumbnails directory
-    thumbnails_dir = os.path.join(output_dir, '.vuepress', 'public', 'thumbnails')
-    os.makedirs(thumbnails_dir, exist_ok=True)
+    # Create the photos table if it doesn't exist :3
+    c.execute('''
+    CREATE TABLE IF NOT EXISTS photos (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        file_name TEXT,
+        file_path TEXT,
+        upload_date TEXT
+    )
+    ''')
     
     def process_directory(directory, relative_path=''):
         html_content = ''
@@ -19,34 +25,34 @@ def create_image_viewer():
             item_path = os.path.join(directory, item)
             relative_item_path = os.path.join(relative_path, item)
             if os.path.isdir(item_path):
-                # Process subdirectories (you may want to add recursive handling here)
-                pass
+                # Process subdirectories recursively
+                html_content += process_directory(item_path, relative_item_path)
             elif item.lower().endswith(('.png', '.jpg', '.jpeg', '.gif')):
-                with Image.open(item_path) as img:
-                    creation_date = datetime.fromtimestamp(os.path.getmtime(item_path))
-                    folder_name = creation_date.strftime('%Y-%m-%d')
-                    
-                    # Create folder for the image
-                    folder_path = os.path.join(output_dir, '.vuepress', 'public', relative_path, folder_name)
-                    os.makedirs(folder_path, exist_ok=True)
-                    
-                    # Copy original image to its folder
-                    shutil.copy(item_path, folder_path)
-                    
-                    # Create and save thumbnail
-                    img.thumbnail((900, 900), Image.LANCZOS)
-                    thumbnail_name = f"thumb_{relative_item_path.replace(os.path.sep, '_')}"
-                    thumbnail_path = os.path.join(thumbnails_dir, thumbnail_name)
-                    img.save(thumbnail_path, quality=95)
+                # Check if the photo is already in the database
+                c.execute('SELECT upload_date FROM photos WHERE file_path = ?', (relative_item_path,))
+                result = c.fetchone()
                 
-                # Add image to HTML content
+                if result is None:
+                    # Get the original upload date (file modification time)
+                    upload_date = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                    
+                    # Insert the photo into the database
+                    c.execute('''
+                    INSERT INTO photos (file_name, file_path, upload_date) 
+                    VALUES (?, ?, ?)
+                    ''', (item, relative_item_path, upload_date))
+                    conn.commit()
+                else:
+                    upload_date = result[0]
+                
+                # Add image to HTML content, showing the upload date
                 html_content += f'''
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/{thumbnail_name}?url" alt="{item}" loading="lazy">
+        <img src="/img/archive/{relative_item_path}" alt="{item}" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">{item}</p>
-            <p class="image-date">Uploaded on {folder_name}</p>
+            <p class="image-date">Uploaded on {upload_date}</p>
         </div>
     </div>
 </div>
@@ -151,10 +157,13 @@ permalink: /photos
 '''
 
     # Write VuePress page file
-    with open(os.path.join(output_dir, 'photos.md'), 'w') as f:
+    with open(os.path.join('src', 'photos.md'), 'w') as f:
         f.write(page_content)
     
-    print("page created successfully in the 'src/photos.md' file.")
+    print("Page created successfully in the 'src/photos.md' file.")
+    
+    # Close the database connection
+    conn.close()
 
 if __name__ == "__main__":
     create_image_viewer()

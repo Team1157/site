@@ -1,7 +1,7 @@
 ---
-author: written by ada t 
+author: written by ada t
 title: Photos
-createTime: 2024/08/18 00:11:57
+createTime: 2024/08/21 22:25:59
 permalink: /photos
 ---
 
@@ -10,490 +10,490 @@ permalink: /photos
     
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_1.jpg?url" alt="1.jpg" loading="lazy">
+        <img src="/img/archive/1.jpg" alt="1.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Gary.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">1.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_2022-2023electrical.jpg?url" alt="2022-2023electrical.jpg" loading="lazy">
+        <img src="/img/archive/2022-2023electrical.jpg" alt="2022-2023electrical.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">2022-2023electrical.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_2022kcmtalliance.jpg?url" alt="2022kcmtalliance.jpg" loading="lazy">
+        <img src="/img/archive/2022kcmtalliance.jpg" alt="2022kcmtalliance.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">2022kcmtalliance.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_2023botandcomputer.jpg?url" alt="2023botandcomputer.jpg" loading="lazy">
+        <img src="/img/archive/2023botandcomputer.jpg" alt="2023botandcomputer.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">2023_Engineering_Presentation.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">2023botandcomputer.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_20240619_212610.jpg?url" alt="20240619_212610.jpg" loading="lazy">
+        <img src="/img/archive/20240619_212610.jpg" alt="20240619_212610.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Worlds_break2024.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">20240619_212610.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_20240621_093820.jpg?url" alt="20240621_093820.jpg" loading="lazy">
+        <img src="/img/archive/20240621_093820.jpg" alt="20240621_093820.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Worlds_Interview2024.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">20240621_093820.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_20240621_115410.jpg?url" alt="20240621_115410.jpg" loading="lazy">
+        <img src="/img/archive/20240621_115410.jpg" alt="20240621_115410.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Worlds_Testing2024.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">20240621_115410.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_2024_Captains.jpg?url" alt="2024_Captains.jpg" loading="lazy">
+        <img src="/img/archive/2024_Captains.jpg" alt="2024_Captains.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">2024_Captains.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_BCD_Question.jpg?url" alt="BCD_Question.jpg" loading="lazy">
+        <img src="/img/archive/BCD_Question.jpg" alt="BCD_Question.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">BCD_Question.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_BCD_Student.jpg?url" alt="BCD_Student.jpg" loading="lazy">
+        <img src="/img/archive/BCD_Student.jpg" alt="BCD_Student.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">BCD_Student.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_BCD_Teaching.jpg?url" alt="BCD_Teaching.jpg" loading="lazy">
+        <img src="/img/archive/BCD_Teaching.jpg" alt="BCD_Teaching.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">BCD_Teaching.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Blahaj_Nav_Bot.jpg?url" alt="Blahaj_Nav_Bot.jpg" loading="lazy">
+        <img src="/img/archive/Blahaj_Nav_Bot.jpg" alt="Blahaj_Nav_Bot.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Blahaj_Nav_Bot.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Boxfish.jpg?url" alt="Boxfish.jpg" loading="lazy">
+        <img src="/img/archive/Boxfish.jpg" alt="Boxfish.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Boxfish.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Bubbles!.jpg?url" alt="Bubbles!.jpg" loading="lazy">
+        <img src="/img/archive/Bubbles!.jpg" alt="Bubbles!.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Bubbles!.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Bubbles_again.jpg?url" alt="Bubbles_again.jpg" loading="lazy">
+        <img src="/img/archive/Bubbles_again.jpg" alt="Bubbles_again.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Bubbles_again.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Buttshark_Helmet.jpg?url" alt="Buttshark_Helmet.jpg" loading="lazy">
+        <img src="/img/archive/Buttshark_Helmet.jpg" alt="Buttshark_Helmet.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Buttshark_Helmet.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_CNC_Mentoring.jpg?url" alt="CNC_Mentoring.jpg" loading="lazy">
+        <img src="/img/archive/CNC_Mentoring.jpg" alt="CNC_Mentoring.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">CNC_Mentoring.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_ComputerWork.jpg?url" alt="ComputerWork.jpg" loading="lazy">
+        <img src="/img/archive/ComputerWork.jpg" alt="ComputerWork.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">ComputerWork.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_DSC_3726.jpg?url" alt="DSC_3726.jpg" loading="lazy">
+        <img src="/img/archive/DSC_3726.jpg" alt="DSC_3726.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Shark_Attack.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">DSC_3726.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_DSC_3727.jpg?url" alt="DSC_3727.jpg" loading="lazy">
+        <img src="/img/archive/DSC_3727.jpg" alt="DSC_3727.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Regional_2023.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">DSC_3727.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_DSC_3733.jpg?url" alt="DSC_3733.jpg" loading="lazy">
+        <img src="/img/archive/DSC_3733.jpg" alt="DSC_3733.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Bubbles_Poolside.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">DSC_3733.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_DSC_3750.jpg?url" alt="DSC_3750.jpg" loading="lazy">
+        <img src="/img/archive/DSC_3750.jpg" alt="DSC_3750.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Ranger_Demo2023.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">DSC_3750.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_FullTeamPhoto.jpg?url" alt="FullTeamPhoto.jpg" loading="lazy">
+        <img src="/img/archive/FullTeamPhoto.jpg" alt="FullTeamPhoto.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">FullTeamPhoto2024.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">FullTeamPhoto.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Gary_minus_buffer.jpg?url" alt="Gary_minus_buffer.jpg" loading="lazy">
+        <img src="/img/archive/Gary_minus_buffer.jpg" alt="Gary_minus_buffer.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Gary_minus_buffer.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Happy_computer.jpg?url" alt="Happy_computer.jpg" loading="lazy">
+        <img src="/img/archive/Happy_computer.jpg" alt="Happy_computer.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Happy_computer.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_IMG_1542.jpg?url" alt="IMG_1542.jpg" loading="lazy">
+        <img src="/img/archive/IMG_1542.jpg" alt="IMG_1542.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Nav3_Work.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">IMG_1542.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_IMG_1545.jpg?url" alt="IMG_1545.jpg" loading="lazy">
+        <img src="/img/archive/IMG_1545.jpg" alt="IMG_1545.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Nav_Break.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">IMG_1545.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_IMG_2280.jpg?url" alt="IMG_2280.jpg" loading="lazy">
+        <img src="/img/archive/IMG_2280.jpg" alt="IMG_2280.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Nav1_Work.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">IMG_2280.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Mako_Image_Bad.jpg?url" alt="Mako_Image_Bad.jpg" loading="lazy">
+        <img src="/img/archive/Mako_Image_Bad.jpg" alt="Mako_Image_Bad.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Mako_Standing.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-title">Mako_Image_Bad.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Regional_Coding.jpg?url" alt="Regional_Coding.jpg" loading="lazy">
+        <img src="/img/archive/Regional_Coding.jpg" alt="Regional_Coding.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Regional_Coding.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Regional_Teaching.jpg?url" alt="Regional_Teaching.jpg" loading="lazy">
+        <img src="/img/archive/Regional_Teaching.jpg" alt="Regional_Teaching.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Regional_Teaching.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Rover.jpg?url" alt="Rover.jpg" loading="lazy">
+        <img src="/img/archive/Rover.jpg" alt="Rover.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Rover.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Soldering_Work.jpg?url" alt="Soldering_Work.jpg" loading="lazy">
+        <img src="/img/archive/Soldering_Work.jpg" alt="Soldering_Work.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Soldering_Work.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Summer Working.jpg?url" alt="Summer Working.jpg" loading="lazy">
+        <img src="/img/archive/Summer Working.jpg" alt="Summer Working.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Summer Working.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_TetherWithMember.jpg?url" alt="TetherWithMember.jpg" loading="lazy">
+        <img src="/img/archive/TetherWithMember.jpg" alt="TetherWithMember.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">TetherWithMember.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_Worlds_Deck_Team.jpg?url" alt="Worlds_Deck_Team.jpg" loading="lazy">
+        <img src="/img/archive/Worlds_Deck_Team.jpg" alt="Worlds_Deck_Team.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Worlds_Deck_Team.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_fieldkcmt2022.jpg?url" alt="fieldkcmt2022.jpg" loading="lazy">
+        <img src="/img/archive/fieldkcmt2022.jpg" alt="fieldkcmt2022.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">fieldkcmt2022.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_garykcmt2022.jpg?url" alt="garykcmt2022.jpg" loading="lazy">
+        <img src="/img/archive/garykcmt2022.jpg" alt="garykcmt2022.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">garykcmt2022.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_gorobosharks.jpg?url" alt="gorobosharks.jpg" loading="lazy">
+        <img src="/img/archive/gorobosharks.jpg" alt="gorobosharks.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">gorobosharks.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_honorthezahnerposter.jpg?url" alt="honorthezahnerposter.jpg" loading="lazy">
+        <img src="/img/archive/honorthezahnerposter.jpg" alt="honorthezahnerposter.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">honorthezahnerposter.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_honorthezahnerzhenren.jpg?url" alt="honorthezahnerzhenren.jpg" loading="lazy">
+        <img src="/img/archive/honorthezahnerzhenren.jpg" alt="honorthezahnerzhenren.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">honorthezahnerzhenren.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_kcmt2022drivers.jpg?url" alt="kcmt2022drivers.jpg" loading="lazy">
+        <img src="/img/archive/kcmt2022drivers.jpg" alt="kcmt2022drivers.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">kcmt2022drivers.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_kcmt2022driverstation.jpg?url" alt="kcmt2022driverstation.jpg" loading="lazy">
+        <img src="/img/archive/kcmt2022driverstation.jpg" alt="kcmt2022driverstation.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">kcmt2022driverstation.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_lndshrkplate.jpg?url" alt="lndshrkplate.jpg" loading="lazy">
+        <img src="/img/archive/lndshrkplate.jpg" alt="lndshrkplate.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">lndshrkplate.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_outsideworlds.jpg?url" alt="outsideworlds.jpg" loading="lazy">
+        <img src="/img/archive/outsideworlds.jpg" alt="outsideworlds.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">outsideworlds.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_paintbooth.jpg?url" alt="paintbooth.jpg" loading="lazy">
+        <img src="/img/archive/paintbooth.jpg" alt="paintbooth.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">paintbooth.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_pelicancasecomputer.jpg?url" alt="pelicancasecomputer.jpg" loading="lazy">
+        <img src="/img/archive/pelicancasecomputer.jpg" alt="pelicancasecomputer.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">pelicancasecomputer.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_prusapapers.jpg?url" alt="prusapapers.jpg" loading="lazy">
+        <img src="/img/archive/prusapapers.jpg" alt="prusapapers.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">prusapapers.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/thumbnails/thumb_zahner_dedication.jpg?url" alt="zahner_dedication.jpg" loading="lazy">
+        <img src="/img/archive/zahner_dedication.jpg" alt="zahner_dedication.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">zahner_dedication.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-17</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
