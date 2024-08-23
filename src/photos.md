@@ -1,7 +1,7 @@
 ---
 author: written by ada t
 title: Photos
-createTime: 2024/08/23 17:23:45
+createTime: 2024/08/23 17:25:31
 permalink: /photos
 ---
 
@@ -350,16 +350,6 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/electricalWork2022.jpg" alt="electricalWork2022.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">electricalWork2022.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
         <img src="/img/archive/presentationBoxfishAndComputer.jpg" alt="presentationBoxfishAndComputer.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">presentationBoxfishAndComputer.jpg</p>
@@ -393,16 +383,6 @@ permalink: /photos
         <img src="/img/archive/worlds2024poolside.jpg" alt="worlds2024poolside.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">worlds2024poolside.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/makoand2024captains.jpg" alt="makoand2024captains.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">makoand2024captains.jpg</p>
             <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
         </div>
     </div>
@@ -494,6 +474,26 @@ permalink: /photos
         <div class="image-overlay">
             <p class="image-title">pelican_case_computer.jpg</p>
             <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/mako_and_captains_2024.jpg" alt="mako_and_captains_2024.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">mako_and_captains_2024.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:24:47</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/electrical_work_2022.jpg" alt="electrical_work_2022.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">electrical_work_2022.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:24:47</p>
         </div>
     </div>
 </div>
