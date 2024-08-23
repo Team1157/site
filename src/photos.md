@@ -1,7 +1,7 @@
 ---
-author: written by ada t 
+author: written by ada t
 title: Photos
-createTime: 2024/08/21 23:11:44
+createTime: 2024/08/23 17:23:45
 permalink: /photos
 ---
 
@@ -53,16 +53,6 @@ permalink: /photos
         <img src="/img/archive/Boxfish.jpg" alt="Boxfish.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">Boxfish.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/Bubbles!.jpg" alt="Bubbles!.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">Bubbles!.jpg</p>
             <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
@@ -290,46 +280,6 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/garykcmt2022.jpg" alt="garykcmt2022.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">garykcmt2022.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/gorobosharks.jpg" alt="gorobosharks.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">gorobosharks.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/honorthezahnerposter.jpg" alt="honorthezahnerposter.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">honorthezahnerposter.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/honorthezahnerzhenren.jpg" alt="honorthezahnerzhenren.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">honorthezahnerzhenren.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
         <img src="/img/archive/kcmt2022drivers.jpg" alt="kcmt2022drivers.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">kcmt2022drivers.jpg</p>
@@ -380,16 +330,6 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/pelicancasecomputer.jpg" alt="pelicancasecomputer.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">pelicancasecomputer.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
         <img src="/img/archive/prusapapers.jpg" alt="prusapapers.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">prusapapers.jpg</p>
@@ -413,26 +353,6 @@ permalink: /photos
         <img src="/img/archive/electricalWork2022.jpg" alt="electricalWork2022.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">electricalWork2022.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/Kcmt2022GaryPreClimb.jpg" alt="Kcmt2022GaryPreClimb.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">Kcmt2022GaryPreClimb.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/kcmt2022allianceBots.jpg" alt="kcmt2022allianceBots.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">kcmt2022allianceBots.jpg</p>
             <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
         </div>
     </div>
@@ -494,6 +414,86 @@ permalink: /photos
         <div class="image-overlay">
             <p class="image-title">makoInTheLab.jpg</p>
             <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/Bubbles.jpg" alt="Bubbles.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">Bubbles.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:20:34</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/kcmt_gary_preclimb.jpg" alt="kcmt_gary_preclimb.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">kcmt_gary_preclimb.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/kcmt_gary.jpg" alt="kcmt_gary.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">kcmt_gary.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/kcmt_alliance_bots_2022.jpg" alt="kcmt_alliance_bots_2022.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">kcmt_alliance_bots_2022.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/go_robosharks.jpg" alt="go_robosharks.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">go_robosharks.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/honor_the_zahner_poster.jpg" alt="honor_the_zahner_poster.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">honor_the_zahner_poster.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/honor_the_zahner_zhenren.jpg" alt="honor_the_zahner_zhenren.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">honor_the_zahner_zhenren.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/pelican_case_computer.jpg" alt="pelican_case_computer.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">pelican_case_computer.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
         </div>
     </div>
 </div>
