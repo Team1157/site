@@ -42,6 +42,13 @@ permalink: /events
     border-radius: 50%;
   }
 </style>
+
+## Upcoming events
+
+### KCMT 2024 - October 12-13
+
+## Previous events
+
 <table>
   <tr>
     <th style="color: #ebbcfc">Year</th>
