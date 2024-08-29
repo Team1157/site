@@ -26,7 +26,7 @@ config:
           link: https://github.com/Team1157/
         - theme: alt
           text: Instagram →
-          link: https://www.instagram.com/boulder_high_robotics
+          link: https://www.instagram.com/bhs_robosharks/
 
   - type: custom
 ---
