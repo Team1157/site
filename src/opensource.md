@@ -11,7 +11,9 @@ import RepoCard from 'vuepress-theme-plume/features/RepoCard.vue'
 
 <CardGrid>
   <RepoCard repo="team1157/site" />
+  <RepoCard repo="team1157/robot-code-kcmt-2024" />
   <RepoCard repo="team1157/Controller-Library" />
+  <RepoCard repo="team1157/adaESC" />
   <RepoCard repo="team1157/Thruster-Arrangement-Utility" />
   <RepoCard repo="team1157/PitDisplay" />
   <RepoCard repo="team1157/landsharks-rover" />
