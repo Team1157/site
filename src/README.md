@@ -10,7 +10,7 @@ config:
     banner: img/bg.png
     hero:
       name: Robo​sharks
-      tagline: MATE ROV Team
+      tagline: First Robotics Competition and MATE ROV Team
       image:
         src: img/logo.png
         alt: RoboSharks Team Logo
