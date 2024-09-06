@@ -1,7 +1,7 @@
 ---
 author: written by ada t 
 title: Photos
-createTime: 2024/09/06 12:02:36
+createTime: 2024/09/06 14:12:24
 permalink: /photos
 ---
 
@@ -14,6 +14,16 @@ permalink: /photos
         <div class="image-overlay">
             <p class="image-title">soldering_work.jpg</p>
             <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/newbot2024kcmt.jpg" alt="newbot2024kcmt.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">newbot2024kcmt.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 14:12:24</p>
         </div>
     </div>
 </div>
