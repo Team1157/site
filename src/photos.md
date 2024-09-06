@@ -1,7 +1,7 @@
 ---
 author: written by ada t 
 title: Photos
-createTime: 2024/09/03 08:22:22
+createTime: 2024/09/06 12:01:54
 permalink: /photos
 ---
 
@@ -10,40 +10,100 @@ permalink: /photos
     
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/Bubbles.jpg" alt="Bubbles.jpg" loading="lazy">
+        <img src="/img/archive/soldering_work.jpg" alt="soldering_work.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Bubbles.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-23 17:20:34</p>
+            <p class="image-title">soldering_work.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/DSC_3733.jpg" alt="DSC_3733.jpg" loading="lazy">
+        <img src="/img/archive/cnc_mentoring.jpg" alt="cnc_mentoring.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">DSC_3733.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+            <p class="image-title">cnc_mentoring.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/CNC_Mentoring.jpg" alt="CNC_Mentoring.jpg" loading="lazy">
+        <img src="/img/archive/bubbles.jpg" alt="bubbles.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">CNC_Mentoring.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+            <p class="image-title">bubbles.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/DSC_3727.jpg" alt="DSC_3727.jpg" loading="lazy">
+        <img src="/img/archive/makointhelab.jpg" alt="makointhelab.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">DSC_3727.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+            <p class="image-title">makointhelab.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/worlds_deck_team.jpg" alt="worlds_deck_team.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">worlds_deck_team.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/dsc_3733.jpg" alt="dsc_3733.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">dsc_3733.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/gary_minus_buffer.jpg" alt="gary_minus_buffer.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">gary_minus_buffer.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/regional_teaching.jpg" alt="regional_teaching.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">regional_teaching.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/img_1542.jpg" alt="img_1542.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">img_1542.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/img_2280.jpg" alt="img_2280.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">img_2280.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
 </div>
@@ -60,20 +120,40 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/Boxfish.jpg" alt="Boxfish.jpg" loading="lazy">
+        <img src="/img/archive/dsc_3727.jpg" alt="dsc_3727.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Boxfish.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+            <p class="image-title">dsc_3727.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/presentationBoxfishAndComputer.jpg" alt="presentationBoxfishAndComputer.jpg" loading="lazy">
+        <img src="/img/archive/bubbles_again.jpg" alt="bubbles_again.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">presentationBoxfishAndComputer.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
+            <p class="image-title">bubbles_again.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/happy_computer.jpg" alt="happy_computer.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">happy_computer.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/tetherwithmember.jpg" alt="tetherwithmember.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">tetherwithmember.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
 </div>
@@ -90,26 +170,6 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/DSC_3750.jpg" alt="DSC_3750.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">DSC_3750.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/makoInTheLab.jpg" alt="makoInTheLab.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">makoInTheLab.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
         <img src="/img/archive/go_robosharks.jpg" alt="go_robosharks.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">go_robosharks.jpg</p>
@@ -120,10 +180,10 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/Summer Working.jpg" alt="Summer Working.jpg" loading="lazy">
+        <img src="/img/archive/summer_working_2024.jpg" alt="summer_working_2024.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Summer Working.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+            <p class="image-title">summer_working_2024.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
 </div>
@@ -133,26 +193,6 @@ permalink: /photos
         <img src="/img/archive/outsideworlds.jpg" alt="outsideworlds.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">outsideworlds.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/Blahaj_Nav_Bot.jpg" alt="Blahaj_Nav_Bot.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">Blahaj_Nav_Bot.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/Buttshark_Helmet.jpg" alt="Buttshark_Helmet.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">Buttshark_Helmet.jpg</p>
             <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
@@ -170,30 +210,10 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/BCD_Student.jpg" alt="BCD_Student.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">BCD_Student.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
         <img src="/img/archive/kcmt_gary.jpg" alt="kcmt_gary.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">kcmt_gary.jpg</p>
             <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/Happy_computer.jpg" alt="Happy_computer.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">Happy_computer.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
@@ -230,40 +250,20 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/Bubbles_again.jpg" alt="Bubbles_again.jpg" loading="lazy">
+        <img src="/img/archive/dsc_3726.jpg" alt="dsc_3726.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Bubbles_again.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+            <p class="image-title">dsc_3726.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/FullTeamPhoto.jpg" alt="FullTeamPhoto.jpg" loading="lazy">
+        <img src="/img/archive/boxfish.jpg" alt="boxfish.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">FullTeamPhoto.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/Worlds_Deck_Team.jpg" alt="Worlds_Deck_Team.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">Worlds_Deck_Team.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/BCD_Teaching.jpg" alt="BCD_Teaching.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">BCD_Teaching.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+            <p class="image-title">boxfish.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
 </div>
@@ -280,30 +280,20 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
+        <img src="/img/archive/regional_coding.jpg" alt="regional_coding.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">regional_coding.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
         <img src="/img/archive/kcmt_gary_preclimb.jpg" alt="kcmt_gary_preclimb.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">kcmt_gary_preclimb.jpg</p>
             <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/IMG_1545.jpg" alt="IMG_1545.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">IMG_1545.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/BCD_Question.jpg" alt="BCD_Question.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">BCD_Question.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
@@ -320,16 +310,6 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/Regional_Teaching.jpg" alt="Regional_Teaching.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">Regional_Teaching.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
         <img src="/img/archive/kcmt2022drivers.jpg" alt="kcmt2022drivers.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">kcmt2022drivers.jpg</p>
@@ -340,40 +320,10 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/DSC_3726.jpg" alt="DSC_3726.jpg" loading="lazy">
+        <img src="/img/archive/buttshark_helmet.jpg" alt="buttshark_helmet.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">DSC_3726.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/Rover.jpg" alt="Rover.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">Rover.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/TetherWithMember.jpg" alt="TetherWithMember.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">TetherWithMember.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/ComputerWork.jpg" alt="ComputerWork.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">ComputerWork.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+            <p class="image-title">buttshark_helmet.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
 </div>
@@ -420,10 +370,40 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/Soldering_Work.jpg" alt="Soldering_Work.jpg" loading="lazy">
+        <img src="/img/archive/bcd_question.jpg" alt="bcd_question.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Soldering_Work.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+            <p class="image-title">bcd_question.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/computerwork.jpg" alt="computerwork.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">computerwork.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/presentationboxfishandcomputer.jpg" alt="presentationboxfishandcomputer.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">presentationboxfishandcomputer.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/rover.jpg" alt="rover.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">rover.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
 </div>
@@ -433,26 +413,6 @@ permalink: /photos
         <img src="/img/archive/zahner_dedication.jpg" alt="zahner_dedication.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">zahner_dedication.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/Regional_Coding.jpg" alt="Regional_Coding.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">Regional_Coding.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/IMG_1542.jpg" alt="IMG_1542.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">IMG_1542.jpg</p>
             <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
@@ -470,6 +430,16 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
+        <img src="/img/archive/fullteamphoto.jpg" alt="fullteamphoto.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">fullteamphoto.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
         <img src="/img/archive/mako_and_captains_2024.jpg" alt="mako_and_captains_2024.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">mako_and_captains_2024.jpg</p>
@@ -480,20 +450,50 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/IMG_2280.jpg" alt="IMG_2280.jpg" loading="lazy">
+        <img src="/img/archive/dsc_3750.jpg" alt="dsc_3750.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">IMG_2280.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+            <p class="image-title">dsc_3750.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/Gary_minus_buffer.jpg" alt="Gary_minus_buffer.jpg" loading="lazy">
+        <img src="/img/archive/blahaj_nav_bot.jpg" alt="blahaj_nav_bot.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">Gary_minus_buffer.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+            <p class="image-title">blahaj_nav_bot.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/bcd_student.jpg" alt="bcd_student.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">bcd_student.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/bcd_teaching.jpg" alt="bcd_teaching.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">bcd_teaching.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/img_1545.jpg" alt="img_1545.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">img_1545.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
 </div>
