@@ -2,3 +2,4 @@ python photospagegen.py
 npx lint-staged
 git add src/photos.md
 git add public
+git add src/.vuepress/public/photos.db
