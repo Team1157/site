@@ -37,7 +37,7 @@ config:
     <div class="text-content">
       <h2>About us</h2>
       <p>
-        Founded in 2003, the Robosharks is a MATE ROV underwater robotics competition team based in Boulder, Colorado. Our team is made up of students from Boulder High School, and we are dedicated to inspiring young people to be science and technology leaders by engaging them in exciting programs that build science, engineering, and technology skills that inspire innovation and foster well-rounded life capabilities. We work out of the Dan Zahner Innovation Lab at Boulder High School.
+        Founded in 2003, the Robosharks is a MATE ROV and FIRST Robotics Competition team based in Boulder, Colorado. Our team is made up of students from Boulder High School, and we are dedicated to inspiring young people to be science and technology leaders by engaging them in exciting programs that build science, engineering, and technology skills that inspire innovation and foster well-rounded life capabilities. We work out of the Dan Zahner Innovation Lab at Boulder High School.
       </p>
     </div>
     <img src="/img/silly.jpeg" alt="RoboSharks Team" class="team-image">
@@ -49,13 +49,13 @@ config:
 <div class="card-container">
   <div class="card">
     <div class="card-icon">🐟</div>
-    <div class="card-title">Underwater Innovation</div>
-    <div class="card-text">Designing and building advanced ROVs for underwater exploration</div>
+    <div class="card-title">Innovation</div>
+    <div class="card-text">Designing and building advanced Robots and ROVs</div>
   </div>
   <div class="card">
     <div class="card-icon">🏆</div>
-    <div class="card-title">MATE ROV Competition</div>
-    <div class="card-text">Participating in regional and international MATE ROV competitions</div>
+    <div class="card-title">Competition</div>
+    <div class="card-text">Participating in regional and international MATE ROV and FIRST Robotics competitions</div>
   </div>
   <div class="card">
     <div class="card-icon">📚</div>
@@ -87,7 +87,7 @@ config:
     <div class="text-content">
       <h2>Join Now!</h2>
       <p>
-        Become part of the Robosharks and dive into the world of underwater robotics. We are open to any and all Boulder High students of any age, and no experience with robotics/computers is needed, and you get free snacks!
+        Become part of the Robosharks and dive into the world of robotics! We are open to any and all Boulder High students of any age, and no experience with robotics/computers is needed, and you get free snacks!
       </p>
     </div>
   </div>
