@@ -9,11 +9,11 @@ config:
     full: true
     banner: img/bg.png
     hero:
-      name: Robo​sharks
-      tagline: First Robotics Competition and MATE ROV Team
+      name: Land​sharks
+      tagline: MATE ROV Team
       image:
         src: img/logo.png
-        alt: RoboSharks Team Logo
+        alt: Landsharks Team Logo
       actions:
         - theme: brand
           text: Donate →
@@ -37,10 +37,10 @@ config:
     <div class="text-content">
       <h2>About us</h2>
       <p>
-        Founded in 2003, the Robosharks is a MATE ROV and FIRST Robotics Competition team based in Boulder, Colorado. Our team is made up of students from Boulder High School, and we are dedicated to inspiring young people to be science and technology leaders by engaging them in exciting programs that build science, engineering, and technology skills that inspire innovation and foster well-rounded life capabilities. We work out of the Dan Zahner Innovation Lab at Boulder High School.
+        Founded in 2003, the Landsharks is a MATE ROV underwater robotics competition team based in Boulder, Colorado. Our team is made up of students from Boulder High School, and we are dedicated to inspiring young people to be science and technology leaders by engaging them in exciting programs that build science, engineering, and technology skills that inspire innovation and foster well-rounded life capabilities. We work out of the Dan Zahner Innovation Lab at Boulder High School.
       </p>
     </div>
-    <img src="/img/silly.jpeg" alt="RoboSharks Team" class="team-image">
+    <img src="/img/silly.jpeg" alt="Landsharks Team" class="team-image">
   </div>
 </div>
 </section>
@@ -83,11 +83,11 @@ config:
 
 <div class="join-now">
   <div class="contentuwu">
-    <img src="/img/nav2.jpeg" alt="RoboSharks Team" class="team-image-right">
+    <img src="/img/nav2.jpeg" alt="Landsharks Team" class="team-image-right">
     <div class="text-content">
       <h2>Join Now!</h2>
       <p>
-        Become part of the Robosharks and dive into the world of robotics! We are open to any and all Boulder High students of any age, and no experience with robotics/computers is needed, and you get free snacks!
+        Become part of the Landsharks and dive into the world of underwater robotics. We are open to any and all Boulder High students of any age, and no experience with robotics/computers is needed, and you get free snacks!
       </p>
     </div>
   </div>
