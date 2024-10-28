@@ -19,6 +19,6 @@
   "dependencies": {
     "eslint": "^9.9.1",
     "husky": "^9.1.5",
-    "typescript-eslint": "^8.2.0"
+    "typescript-eslint": "^8.11.0"
   }
 }
