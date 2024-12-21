@@ -19,6 +19,8 @@
   "dependencies": {
     "eslint": "^9.9.1",
     "husky": "^9.1.5",
+    "lint-staged": "^15.2.11",
+    "npx": "^10.2.2",
     "typescript-eslint": "^8.2.0"
   }
 }

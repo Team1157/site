@@ -1,7 +1,7 @@
 ---
 author: written by ada t
 title: Photos
-createTime: 2024/10/17 14:15:15
+createTime: 2024/12/20 20:24:54
 permalink: /photos
 ---
 
@@ -10,9 +10,9 @@ permalink: /photos
     
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/soldering_work.jpg" alt="soldering_work.jpg" loading="lazy">
+        <img src="/img/archive/dsc_3733.jpg" alt="dsc_3733.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">soldering_work.jpg</p>
+            <p class="image-title">dsc_3733.jpg</p>
             <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
@@ -30,160 +30,10 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/cnc_mentoring.jpg" alt="cnc_mentoring.jpg" loading="lazy">
+        <img src="/img/archive/zahner_dedication.jpg" alt="zahner_dedication.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">cnc_mentoring.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/bubbles.jpg" alt="bubbles.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">bubbles.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/makointhelab.jpg" alt="makointhelab.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">makointhelab.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/worlds_deck_team.jpg" alt="worlds_deck_team.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">worlds_deck_team.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/dsc_3733.jpg" alt="dsc_3733.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">dsc_3733.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/gary_minus_buffer.jpg" alt="gary_minus_buffer.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">gary_minus_buffer.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/regional_teaching.jpg" alt="regional_teaching.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">regional_teaching.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/img_1542.jpg" alt="img_1542.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">img_1542.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/img_2280.jpg" alt="img_2280.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">img_2280.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/fieldkcmt2022.jpg" alt="fieldkcmt2022.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">fieldkcmt2022.jpg</p>
+            <p class="image-title">zahner_dedication.jpg</p>
             <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/dsc_3727.jpg" alt="dsc_3727.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">dsc_3727.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/bubbles_again.jpg" alt="bubbles_again.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">bubbles_again.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/happy_computer.jpg" alt="happy_computer.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">happy_computer.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/tetherwithmember.jpg" alt="tetherwithmember.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">tetherwithmember.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/kcmt2022driverstation.jpg" alt="kcmt2022driverstation.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">kcmt2022driverstation.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/pre_match_2024_kcmt.jpg" alt="pre_match_2024_kcmt.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">pre_match_2024_kcmt.jpg</p>
-            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
         </div>
     </div>
 </div>
@@ -200,100 +50,10 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/robot_on_field_2024_kcmt.jpg" alt="robot_on_field_2024_kcmt.jpg" loading="lazy">
+        <img src="/img/archive/bcd_question.jpg" alt="bcd_question.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">robot_on_field_2024_kcmt.jpg</p>
-            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/summer_working_2024.jpg" alt="summer_working_2024.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">summer_working_2024.jpg</p>
+            <p class="image-title">bcd_question.jpg</p>
             <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/eli_with_driverstation_2024_kcmt.jpg" alt="eli_with_driverstation_2024_kcmt.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">eli_with_driverstation_2024_kcmt.jpg</p>
-            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/outsideworlds.jpg" alt="outsideworlds.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">outsideworlds.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/talking_with_up_a_creek_2024_kcmt.jpg" alt="talking_with_up_a_creek_2024_kcmt.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">talking_with_up_a_creek_2024_kcmt.jpg</p>
-            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/electrical_work_2022.jpg" alt="electrical_work_2022.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">electrical_work_2022.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-23 17:24:47</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/working_in_the_pit_2024_kcmt.jpg" alt="working_in_the_pit_2024_kcmt.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">working_in_the_pit_2024_kcmt.jpg</p>
-            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/driveteam_2024_kcmt.jpg" alt="driveteam_2024_kcmt.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">driveteam_2024_kcmt.jpg</p>
-            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/kcmt_gary.jpg" alt="kcmt_gary.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">kcmt_gary.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/prusapapers.jpg" alt="prusapapers.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">prusapapers.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
@@ -310,119 +70,9 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/honor_the_zahner_zhenren.jpg" alt="honor_the_zahner_zhenren.jpg" loading="lazy">
+        <img src="/img/archive/bcd_student.jpg" alt="bcd_student.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">honor_the_zahner_zhenren.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/dsc_3726.jpg" alt="dsc_3726.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">dsc_3726.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/boxfish.jpg" alt="boxfish.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">boxfish.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/landsharks_at_2024_kcmt.jpg" alt="landsharks_at_2024_kcmt.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">landsharks_at_2024_kcmt.jpg</p>
-            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/queuing_2024_kcmt.jpg" alt="queuing_2024_kcmt.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">queuing_2024_kcmt.jpg</p>
-            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/worlds2024talk.jpg" alt="worlds2024talk.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">worlds2024talk.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/regional_coding.jpg" alt="regional_coding.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">regional_coding.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/swervy_our_bot_2024_kcmt.jpg" alt="swervy_our_bot_2024_kcmt.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">swervy_our_bot_2024_kcmt.jpg</p>
-            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/kcmt_gary_preclimb.jpg" alt="kcmt_gary_preclimb.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">kcmt_gary_preclimb.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/worlds2024hotelroom.jpg" alt="worlds2024hotelroom.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">worlds2024hotelroom.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/kcmt2022drivers.jpg" alt="kcmt2022drivers.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">kcmt2022drivers.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/buttshark_helmet.jpg" alt="buttshark_helmet.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">buttshark_helmet.jpg</p>
+            <p class="image-title">bcd_student.jpg</p>
             <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
@@ -440,39 +90,9 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/kcmt_alliance_bots_2022.jpg" alt="kcmt_alliance_bots_2022.jpg" loading="lazy">
+        <img src="/img/archive/worlds_deck_team.jpg" alt="worlds_deck_team.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">kcmt_alliance_bots_2022.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/worlds2024poolside.jpg" alt="worlds2024poolside.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">worlds2024poolside.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/paintbooth.jpg" alt="paintbooth.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">paintbooth.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/bcd_question.jpg" alt="bcd_question.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">bcd_question.jpg</p>
+            <p class="image-title">worlds_deck_team.jpg</p>
             <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
@@ -480,20 +100,10 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/computerwork.jpg" alt="computerwork.jpg" loading="lazy">
+        <img src="/img/archive/eli_with_driverstation_2024_kcmt.jpg" alt="eli_with_driverstation_2024_kcmt.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">computerwork.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/presentationboxfishandcomputer.jpg" alt="presentationboxfishandcomputer.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">presentationboxfishandcomputer.jpg</p>
-            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+            <p class="image-title">eli_with_driverstation_2024_kcmt.jpg</p>
+            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
         </div>
     </div>
 </div>
@@ -510,29 +120,9 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/zahner_dedication.jpg" alt="zahner_dedication.jpg" loading="lazy">
+        <img src="/img/archive/dsc_3750.jpg" alt="dsc_3750.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">zahner_dedication.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/honor_the_zahner_poster.jpg" alt="honor_the_zahner_poster.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">honor_the_zahner_poster.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
-        </div>
-    </div>
-</div>
-                
-<div class="image-item">
-    <div target="_blank" class="image-link">
-        <img src="/img/archive/fullteamphoto.jpg" alt="fullteamphoto.jpg" loading="lazy">
-        <div class="image-overlay">
-            <p class="image-title">fullteamphoto.jpg</p>
+            <p class="image-title">dsc_3750.jpg</p>
             <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
@@ -540,19 +130,29 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/mako_and_captains_2024.jpg" alt="mako_and_captains_2024.jpg" loading="lazy">
+        <img src="/img/archive/worlds2024hotelroom.jpg" alt="worlds2024hotelroom.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">mako_and_captains_2024.jpg</p>
-            <p class="image-date">Uploaded on 2024-08-23 17:24:47</p>
+            <p class="image-title">worlds2024hotelroom.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
         </div>
     </div>
 </div>
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/dsc_3750.jpg" alt="dsc_3750.jpg" loading="lazy">
+        <img src="/img/archive/img_1542.jpg" alt="img_1542.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">dsc_3750.jpg</p>
+            <p class="image-title">img_1542.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/gary_minus_buffer.jpg" alt="gary_minus_buffer.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">gary_minus_buffer.jpg</p>
             <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
@@ -570,9 +170,59 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
-        <img src="/img/archive/bcd_student.jpg" alt="bcd_student.jpg" loading="lazy">
+        <img src="/img/archive/kcmt2022driverstation.jpg" alt="kcmt2022driverstation.jpg" loading="lazy">
         <div class="image-overlay">
-            <p class="image-title">bcd_student.jpg</p>
+            <p class="image-title">kcmt2022driverstation.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/working_in_the_pit_2024_kcmt.jpg" alt="working_in_the_pit_2024_kcmt.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">working_in_the_pit_2024_kcmt.jpg</p>
+            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/kcmt_alliance_bots_2022.jpg" alt="kcmt_alliance_bots_2022.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">kcmt_alliance_bots_2022.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/electrical_work_2022.jpg" alt="electrical_work_2022.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">electrical_work_2022.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:24:47</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/makointhelab.jpg" alt="makointhelab.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">makointhelab.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/buttshark_helmet.jpg" alt="buttshark_helmet.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">buttshark_helmet.jpg</p>
             <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
         </div>
     </div>
@@ -590,10 +240,360 @@ permalink: /photos
                 
 <div class="image-item">
     <div target="_blank" class="image-link">
+        <img src="/img/archive/pre_match_2024_kcmt.jpg" alt="pre_match_2024_kcmt.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">pre_match_2024_kcmt.jpg</p>
+            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/paintbooth.jpg" alt="paintbooth.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">paintbooth.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/robot_on_field_2024_kcmt.jpg" alt="robot_on_field_2024_kcmt.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">robot_on_field_2024_kcmt.jpg</p>
+            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/worlds2024talk.jpg" alt="worlds2024talk.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">worlds2024talk.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/worlds2024poolside.jpg" alt="worlds2024poolside.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">worlds2024poolside.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 23:10:30</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/talking_with_up_a_creek_2024_kcmt.jpg" alt="talking_with_up_a_creek_2024_kcmt.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">talking_with_up_a_creek_2024_kcmt.jpg</p>
+            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/bubbles_again.jpg" alt="bubbles_again.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">bubbles_again.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/prusapapers.jpg" alt="prusapapers.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">prusapapers.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/mako_and_captains_2024.jpg" alt="mako_and_captains_2024.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">mako_and_captains_2024.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:24:47</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/img_2280.jpg" alt="img_2280.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">img_2280.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/summer_working_2024.jpg" alt="summer_working_2024.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">summer_working_2024.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/bubbles.jpg" alt="bubbles.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">bubbles.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
         <img src="/img/archive/img_1545.jpg" alt="img_1545.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">img_1545.jpg</p>
             <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/honor_the_zahner_poster.jpg" alt="honor_the_zahner_poster.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">honor_the_zahner_poster.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/tetherwithmember.jpg" alt="tetherwithmember.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">tetherwithmember.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/cnc_mentoring.jpg" alt="cnc_mentoring.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">cnc_mentoring.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/landsharks_at_2024_kcmt.jpg" alt="landsharks_at_2024_kcmt.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">landsharks_at_2024_kcmt.jpg</p>
+            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/dsc_3727.jpg" alt="dsc_3727.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">dsc_3727.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/kcmt2022drivers.jpg" alt="kcmt2022drivers.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">kcmt2022drivers.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/fieldkcmt2022.jpg" alt="fieldkcmt2022.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">fieldkcmt2022.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/honor_the_zahner_zhenren.jpg" alt="honor_the_zahner_zhenren.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">honor_the_zahner_zhenren.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/swervy_our_bot_2024_kcmt.jpg" alt="swervy_our_bot_2024_kcmt.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">swervy_our_bot_2024_kcmt.jpg</p>
+            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/dsc_3726.jpg" alt="dsc_3726.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">dsc_3726.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/presentationboxfishandcomputer.jpg" alt="presentationboxfishandcomputer.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">presentationboxfishandcomputer.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/happy_computer.jpg" alt="happy_computer.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">happy_computer.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/regional_teaching.jpg" alt="regional_teaching.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">regional_teaching.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/kcmt_gary.jpg" alt="kcmt_gary.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">kcmt_gary.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/computerwork.jpg" alt="computerwork.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">computerwork.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/driveteam_2024_kcmt.jpg" alt="driveteam_2024_kcmt.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">driveteam_2024_kcmt.jpg</p>
+            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/queuing_2024_kcmt.jpg" alt="queuing_2024_kcmt.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">queuing_2024_kcmt.jpg</p>
+            <p class="image-date">Uploaded on 2024-10-17 14:14:09</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/regional_coding.jpg" alt="regional_coding.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">regional_coding.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/soldering_work.jpg" alt="soldering_work.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">soldering_work.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/fullteamphoto.jpg" alt="fullteamphoto.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">fullteamphoto.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/kcmt_gary_preclimb.jpg" alt="kcmt_gary_preclimb.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">kcmt_gary_preclimb.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-23 17:23:20</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/boxfish.jpg" alt="boxfish.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">boxfish.jpg</p>
+            <p class="image-date">Uploaded on 2024-09-06 12:01:54</p>
+        </div>
+    </div>
+</div>
+                
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/outsideworlds.jpg" alt="outsideworlds.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">outsideworlds.jpg</p>
+            <p class="image-date">Uploaded on 2024-08-21 22:24:42</p>
         </div>
     </div>
 </div>
