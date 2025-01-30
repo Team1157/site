@@ -27,10 +27,7 @@ permalink: /history
   }
 
 </style>
-<h2> 2024 -  </h2>
-<h3> Landsharks again!</h3>
-<p>We're switching back to doing FRC this year!</p>
-<h2> 2019 - 2024 </h2>
+<h2> 2019 - Present </h2>
 <h3> MATE and the Robosharks </h3>
 <p>In 2020 we switched over to the MATE (Marine Advanced Technology Education) ROV Competition after the FRC regional was cancelled due to the pandemic. We've stuck with it, and have competed at the World Championships each year. Our switch to MATE also heralded a rebranding. No longer the Landsharks, we found our way into the water and became the Robosharks.</p>
 <h2>Competition - FRC 2008-2015</h2>

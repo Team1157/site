@@ -17,7 +17,7 @@ config:
       actions:
         - theme: brand
           text: Donate →
-          link: /donate
+          link: https://bvsd.revtrak.net/high-schools/boh/boh-clubs-and-extracurricular-activities/boh-robotics/#/v/boh-robotics-donation-in-memory-of-dan-zahner
         - theme: alt
           text: TBA →
           link: https://www.thebluealliance.com/team/1157
@@ -101,8 +101,6 @@ config:
 ::: tabs
 @tab Email
 ```1157landsharkrobotics@gmail.com```
-@tab Discord
-```https://discord.gg/TtNwjxKvZm```
 @tab Address
 
 ```
