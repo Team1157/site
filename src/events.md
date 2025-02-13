@@ -45,7 +45,7 @@ permalink: /events
 
 ## Upcoming events
 
-### KCMT 2024 - October 12-13
+### MATE Rocky Mountain Regional 2025 - TBD
 
 ## Previous events
 
@@ -54,6 +54,11 @@ permalink: /events
     <th style="color: #ebbcfc">Year</th>
     <th style="color: #ffd700">Event</th>
     <th style="color: #ebbcfc">Awards</th>
+  </tr>
+ <tr>
+    <td>2024</td>
+    <td>Colorado FRC Offseason: Kendric Castillo Memorial Tournament</td>
+    <td>Debbie English's Favorite Silly Team Award</td>
   </tr>
   <tr>
     <td>2024</td>
@@ -86,6 +91,11 @@ permalink: /events
     <td>Ranger 2nd Place</td>
   </tr>
   <tr>
+    <td>2021</td>
+    <td>Colorado FRC Offseason: Kendric Castillo Memorial Tournament</td>
+    <td></td>
+  </tr>
+  <tr>
    <td>2021</td>
    <td>MATE World Championships</td>
    <td>Guts and Glory Award</td>
@@ -95,99 +105,104 @@ permalink: /events
     <td>Colorado MATE Regional</td>
     <td></td>
   </tr>
+ <tr>
+    <td>2024</td>
+    <td>Colorado FRC Offseason: Kendric Castillo Memorial Tournament</td>
+    <td></td>
+  </tr>
   <tr>
     <td>2020</td>
-    <td>* Colorado Regional (Cancelled)</td>
+    <td>* Colorado FRC Regional (Cancelled)</td>
     <td></td>
   </tr>
   <tr>
     <td>2019</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2018</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2017</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2016</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2015</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2014</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2013</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2012</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2011</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td>Quality Award sponsored by Motorola</td>
   </tr>
   <tr>
     <td>2010</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2009</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2008</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td>Imagery Award</td>
   </tr>
   <tr>
     <td>2007</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2006</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2005</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2004</td>
-    <td>Galileo Division</td>
+    <td>FRC World Championship: Galileo Division</td>
     <td></td>
   </tr>
   <tr>
     <td>2004</td>
-    <td>Colorado Regional</td>
+    <td>Colorado FRC Regional</td>
     <td></td>
   </tr>
   <tr>
     <td>2003</td>
-    <td>Pacific Northwest Regional</td>
+    <td>Pacific Northwest FRC Regional</td>
     <td></td>
   </tr>
 </table>
