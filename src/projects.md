@@ -35,7 +35,7 @@ permalink: /projects
 <h2>Competition - MATE 2023</h2>
 <h3>Bubbles</h3>
 <img src="/img/Bubbles!.jpeg?url" alt="Bubbles ROV from MATE 2023">
-<p>An iteration of the earlier Boxfish ROV, Bubbles utilized a similar frame structure, but with 8 thrusters placed at the corners of the frame, allowing for near-symmetrical movement in any orientation. Designed to have a pair of cameras and manipulators on both sides, Bubbles was able to quickly shift between tasks at ease, without needing precious time to swing around to face the new focus.</p>
+<p>An iteration of the earlier Boxfish ROV, Bubbles utilized a similar frame structure, but with 8 thrusters placed at the corners of the frame, allowing for near-symmetrical movement in any orientation. Designed to have a pair of cameras and manipulators on both sides, Bubbles was able to quickly shift between tasks with ease, not requiring precious time to swing around to face the new focus.</p>
 
 <h2>Competition - MATE 2022</h2>
 <h3>Boxfish</h3>
@@ -70,40 +70,40 @@ permalink: /projects
 <h3>Recycle Rush</h3>
 <img src="/img/2015.png?url" alt="Robot for FRC 2015: Recycle Rush">
 
-<h3>Competition - FRC 2014</h3>
+<h2>Competition - FRC 2014</h2>
 <img src="/img/2014.png?url" alt="Robot for FRC 2014: Aerial Assist">
 
-<h3>Competition - FRC 2013</h3>
+<h2>Competition - FRC 2013</h2>
 <img src="/img/2013.jpg?url" alt="Robot for FRC 2013: Ultimate Ascent">
 
-<h3>Competition - FRC 2012</h3>
+<h2>Competition - FRC 2012</h2>
 <img src="/img/2012.png?url" alt="Robot for FRC 2012: Rebound Rumble">
 
-<h3>Competition - FRC 2011</h3>
+<h2>Competition - FRC 2011</h2>
 <img src="/img/2011.png?url" alt="Robot for FRC 2011: Logo Motion">
 
-<h3>Competition - FRC 2010</h3>
+<h2>Competition - FRC 2010</h2>
 <img src="/img/2010.png?url" alt="Robot for FRC 2010: Breakaway">
 
-<h3>Competition - FRC 2009</h3>
+<h2>Competition - FRC 2009</h2>
 <img src="/img/2009.jpg?url" alt="Robot for FRC 2009: Lunacy">
 
-<h3>Competition - FRC 2008</h3>
+<h2>Competition - FRC 2008</h2>
 <img src="/img/2008.jpeg?url" alt="Robot for FRC 2008: FIRST Overdrive">
 
-<h3>Competition - FRC 2007</h3>
+<h2>Competition - FRC 2007</h2>
 <img src="/img/2007.webp?url" alt="Robot for FRC 2007: Rack 'n' Roll">
 
-<h3>Competition - FRC 2006</h3>
+<h2>Competition - FRC 2006</h2>
 <img src="/img/2006.jpg?url" alt="Robot for FRC 2006: Aim High">
 
-<h3>Competition - FRC 2005</h3>
+<h2>Competition - FRC 2005</h2>
 <img src="/img/2005.jpg?url" alt="Robot for FRC 2005: Triple Play">
 
-<h3>Competition - FRC 2004</h3>
+<h2>Competition - FRC 2004</h2>
 <img src="/img/2004.jpg?url" alt="Robot for FRC 2004: FIRST Frenzy: Raising the Bar">
 
-<h3>Competition - FRC 2003</h3>
+<h2>Competition - FRC 2003</h2>
 <img src="/img/2003.png?url" alt="Robot for FRC 2003: Stack Attack">
 
 <h2>Jenny</h2>
