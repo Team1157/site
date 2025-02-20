@@ -1,57 +1,42 @@
-name: fancy deploy
+name: Deploy Docs
 
 on:
   push:
-    branches:
-      - main
-
-permissions:
-  contents: write
+    tags:
+      - v*
+  workflow_dispatch:
 
 jobs:
-  deploy-gh-pages:
+  deploy-docs:
     runs-on: ubuntu-latest
     steps:
-      - name: Use Latest Corepack
-        run: |
-          echo "Before: corepack version => $(corepack --version || echo 'not installed')"
-          npm install -g corepack@latest
-          echo "After : corepack version => $(corepack --version)"
-          corepack enable
-          pnpm --version
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          # if your docs needs submodules, uncomment the following line
-          # submodules: true
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 8
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: pnpm
 
-      - name: Install Deps
-        run: |
-          corepack enable
-          pnpm install --frozen-lockfile
+      - name: Install deps
+        run: pnpm install --frozen-lockfile
 
-      - name: Build
+      - name: Build Packages
+        run: pnpm build:package
+
+      - name: Docs build
         env:
           NODE_OPTIONS: --max_old_space_size=8192
-        run: |-
-          pnpm run src:build
-          > src/.vuepress/dist/.nojekyll
+        run: pnpm src:build
 
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4.6.4
+      - name: Deploy src
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          # Deploy Docs
           branch: gh-pages
-          folder: src/.vuepress/dist
+          folder: docs/.vuepress/dist
+          single-commit: true
