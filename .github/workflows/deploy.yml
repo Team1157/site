@@ -27,10 +27,8 @@ jobs:
       - name: Install deps
         run: pnpm install --no-frozen-lockfile
 
-      - name: Build Packages
-        run: pnpm build:package
 
-      - name: Docs build
+      - name: Src build
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: pnpm src:build
