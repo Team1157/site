@@ -12,10 +12,19 @@ jobs:
   deploy-gh-pages:
     runs-on: ubuntu-latest
     steps:
+      - name: Use Latest Corepack
+        run: |
+          echo "Before: corepack version => $(corepack --version || echo 'not installed')"
+          npm install -g corepack@latest
+          echo "After : corepack version => $(corepack --version)"
+          corepack enable
+          pnpm --version
       - name: Checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+          # if your docs needs submodules, uncomment the following line
+          # submodules: true
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v2
@@ -36,12 +45,13 @@ jobs:
       - name: Build
         env:
           NODE_OPTIONS: --max_old_space_size=8192
-        run: |
+        run: |-
           pnpm run src:build
           > src/.vuepress/dist/.nojekyll
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4.6.4
         with:
+          # Deploy Docs
           branch: gh-pages
           folder: src/.vuepress/dist
