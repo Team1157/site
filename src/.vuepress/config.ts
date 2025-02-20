@@ -171,7 +171,7 @@ export default defineUserConfig({
   ],
   bundler: viteBundler(),
   theme: plumeTheme({
-    footer: false,
+    footer: true,
     navbar: [
       { text: 'Donate', link: 'https://bvsd.revtrak.net/high-schools/boh/boh-clubs-and-extracurricular-activities/boh-robotics/#/v/boh-robotics-donation-in-memory-of-dan-zahner' },
       { text: 'About', link: '/#about' },
