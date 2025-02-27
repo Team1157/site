@@ -100,7 +100,7 @@ config:
 <!-- prettier-ignore -->
 ::: tabs
 @tab Email
-```1157Robosharkrobotics@gmail.com```
+```1157landsharkrobotics@gmail.com```
 @tab Address
 
 ```
