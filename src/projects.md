@@ -30,21 +30,26 @@ permalink: /projects
 <h2>Competition - MATE 2024</h2>
 <h3>Mako</h3>
 <img src="/img/Mako_Image_Bad.jpg?url" alt="Mako ROV from MATE 2024">
-<p>This year we went with a completely new design; Mako didn't have a conventional frame, instead utilizing a set of rails around the drybox which served as adjustable attachment points for the thrusters, camera, and manipulator. Designed for power and finesse over symmetry, Mako was capable of extremely fast forward movement and precise rotation.</p>
+<p>This year we went with a completely new design; Mako didn't have a conventional frame, instead utilizing a set of rails around the drybox which served as adjustable attachment points for the thrusters, camera, and manipulator. Designed for power and finesse, Mako was capable of extremely fast forward movement and precise rotation.</p>
+<a href="/files/BoulderHighSchool_Robosharks_TechnicalDocumentation_2024.pdf" target="_blank" >Mako Technical Documentation</a>
 
 <h2>Competition - MATE 2023</h2>
 <h3>Bubbles</h3>
 <img src="/img/Bubbles!.jpeg?url" alt="Bubbles ROV from MATE 2023">
 <p>An iteration of the earlier Boxfish ROV, Bubbles utilized a similar frame structure, but with 8 thrusters placed at the corners of the frame, allowing for near-symmetrical movement in any orientation. Designed to have a pair of cameras and manipulators on both sides, Bubbles was able to quickly shift between tasks with ease, not requiring precious time to swing around to face the new focus.</p>
+<a href="/files/BoulderHighSchool_Robosharks_TechnicalDocumentation_2023.pdf" target="_blank" >Bubbles Technical Documentation</a>
 
 <h2>Competition - MATE 2022</h2>
 <h3>Boxfish</h3>
 <img src="/img/Boxfish.jpg?url" alt="Boxfish ROV from MATE 2022">
+<p>Our first design with an external frame, Boxfish was sturdy and robust, with a camera setup that gave an incredible view of our gripper, allowing us to easily and precisely manipulate surrounding objects. With 6 thrusters and modular buoyancy modules, Boxfish was a manuerverable, versatile robot.</p>
+<a href="/files/BoulderHighSchool_Robosharks_TechnicalDocumentation_2022.pdf" target="_blank" >Boxfish Technical Documentation</a>
 
 <h2>Competition - MATE 2021</h2>
 <h3>Hammerhead</h3>
 <img src="https://adabit.org/banner.jpg" alt="Hammerhead ROV from MATE 2021">
-
+<p>The team's first foray into the MATE ROV Competition, Hammerhead was a simple, yet capable design. With a variety of tools to complete task, including two manipulators and an extendable tape measure for reaching into tight spaces, Hammerhead blazed the way for all of our future designs.</p>
+<a href="/files/BoulderHighSchool_Robosharks_TechnicalDocumentation_2021.pdf" target="_blank" >Hammerhead Technical Documentation</a>
 
 <h2>Competition - FRC 2020</h2>
 <h3>Gary</h3>
