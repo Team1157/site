@@ -5,9 +5,8 @@
 [![Pages Build Deployment](https://github.com/Team1157/site/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Team1157/site/actions/workflows/pages/pages-build-deployment)
 
 > [!Note]  
-> The website is temporarily available at
-> [https://1157.adabit.org](https://1157.adabit.org) until the actual domain is
-> renewed.
+> The website is now available at
+> [https://robosharks.org](https:/robosharks.org)!
 
 ## Getting Started
 
