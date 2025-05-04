@@ -3,7 +3,7 @@ pageLayout: home
 watermark: false
 externalLinkIcon: false
 navbar: true
-footer: false
+footer: true
 config:
   - type: banner
     full: true
@@ -35,7 +35,7 @@ config:
 <div class="about-us">
   <div class="contentuwu">
     <div class="text-content">
-      <h2>About us</h2>
+      <h2>About Us</h2>
       <p>
         Founded in 2003, Robosharks is a robotics team based in Boulder, Colorado, that competes in MATE ROV, an underwater robotics competition. Our team is made up of students from Boulder High School, and we are dedicated to inspiring young people to be science and technology leaders by engaging them in exciting programs that build science, engineering, and technology skills that inspire innovation and foster well-rounded skill sets. We work out of the Dan Zahner Innovation Lab at Boulder High School.
       </p>
@@ -110,3 +110,22 @@ Boulder, CO 80302
 ```
 
 :::
+
+
+<section id = "sponsors">
+<div class = "sponsors">
+  <div class = "text-content">
+    <h2 style="color: #3e2137">Our Sponsors</h2>
+  </div>
+  <div class = "our-sponsors">
+    <img src = "/img/logos/SpectraLogo-2023.png" alt = "Spectra Logic" class = "sponsor-logo">
+    <img src = "/img/logos/black_swift_logo.png" alt = "Black Swift Technologies" class = "sponsor-logo">
+  </div>
+  <div>
+  <br>
+  <h1 style = "color: #3e2137; text-align: center; font-size: 325%"> The Bartlett Foundation </h1>
+  <br>
+</div>
+</div>
+</section>
+
