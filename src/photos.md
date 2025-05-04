@@ -7,7 +7,27 @@ permalink: /photos
 
 <ClientOnly>
 <div class="image-viewer">
-    
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/wobbegong_poolside.jpg" alt="wobbegong_poolside.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">wobbegong_poolside.jpg</p>
+            <p class="image-date">Uploaded on 2025-05-04 12:40:34</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/wobbegong_swimming.jpg" alt="wobbegong_swimming.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">wobbegong_swimming.jpg</p>
+            <p class="image-date">Uploaded on 2025-05-04 12:40:34</p>
+        </div>
+    </div>
+</div>
+
 <div class="image-item">
     <div target="_blank" class="image-link">
         <img src="/img/archive/dsc_3733.jpg" alt="dsc_3733.jpg" loading="lazy">

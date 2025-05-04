@@ -45,7 +45,7 @@ permalink: /events
 
 ## Upcoming events
 
-### MATE Rocky Mountain Regional 2025 - TBD
+### MATE World Championships 2025 - TBD
 
 ## Previous events
 
@@ -54,6 +54,11 @@ permalink: /events
     <th style="color: #ebbcfc">Year</th>
     <th style="color: #ffd700">Event</th>
     <th style="color: #ebbcfc">Awards</th>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>MATE ROV Rocky Mountain Regional</td>
+    <td>Ranger 1st Place</td>
   </tr>
  <tr>
     <td>2024</td>

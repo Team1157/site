@@ -27,6 +27,11 @@ permalink: /projects
   }
 
 </style>
+<h2>Competition - MATE 2025</h2>
+<h3>Wobbegong</h3>
+<img src="/img/archive/wobbegong_poolside.jpg" alt= "Wobbegong ROV from MATE 2025">
+<p>Wobbegong was designed to be extremely editable. With an open frame and plenty of attachment points for tools and payloads, Wobbegong was an extremely capable base platform, able to be quickly fitted for new tasks and missions. Utilizing a repurposed roboRIO and IMU module from our FRC days, Wobbegong was the first of our robots to utilize active stabilization measures.</p>
+
 <h2>Competition - MATE 2024</h2>
 <h3>Mako</h3>
 <img src="/img/Mako_Image_Bad.jpg?url" alt="Mako ROV from MATE 2024">
