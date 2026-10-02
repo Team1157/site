@@ -43,10 +43,6 @@ permalink: /events
   }
 </style>
 
-## Upcoming events
-
-### MATE World Championships 2025 - TBD
-
 ## Previous events
 
 <table>
@@ -54,6 +50,11 @@ permalink: /events
     <th style="color: #ebbcfc">Year</th>
     <th style="color: #ffd700">Event</th>
     <th style="color: #ebbcfc">Awards</th>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>MATE World Championships (Alpena, Michigan)</td>
+    <td></td>
   </tr>
   <tr>
     <td>2025</td>
@@ -108,11 +109,6 @@ permalink: /events
   <tr>
     <td>2021</td>
     <td>Colorado MATE Regional</td>
-    <td></td>
-  </tr>
- <tr>
-    <td>2024</td>
-    <td>Colorado FRC Offseason: Kendric Castillo Memorial Tournament</td>
     <td></td>
   </tr>
   <tr>

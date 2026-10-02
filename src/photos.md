@@ -10,6 +10,126 @@ permalink: /photos
 
 <div class="image-item">
     <div target="_blank" class="image-link">
+        <img src="/img/archive/alpena_worlds_2025_wobbegong_electronics.jpg" alt="alpena_worlds_2025_wobbegong_electronics.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">alpena_worlds_2025_wobbegong_electronics.jpg</p>
+            <p class="image-date">Uploaded on 2026-10-02 11:59:16</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/alpena_worlds_2025_opening_ceremony.jpg" alt="alpena_worlds_2025_opening_ceremony.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">alpena_worlds_2025_opening_ceremony.jpg</p>
+            <p class="image-date">Uploaded on 2026-10-02 11:59:16</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/alpena_worlds_2025_wobbegong_on_deck.jpg" alt="alpena_worlds_2025_wobbegong_on_deck.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">alpena_worlds_2025_wobbegong_on_deck.jpg</p>
+            <p class="image-date">Uploaded on 2026-10-02 11:59:16</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/alpena_worlds_2025_in_the_pits.jpg" alt="alpena_worlds_2025_in_the_pits.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">alpena_worlds_2025_in_the_pits.jpg</p>
+            <p class="image-date">Uploaded on 2026-10-02 11:59:16</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/alpena_worlds_2025_tether_ride.jpg" alt="alpena_worlds_2025_tether_ride.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">alpena_worlds_2025_tether_ride.jpg</p>
+            <p class="image-date">Uploaded on 2026-10-02 11:59:16</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/alpena_worlds_2025_hotel_lobby.jpg" alt="alpena_worlds_2025_hotel_lobby.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">alpena_worlds_2025_hotel_lobby.jpg</p>
+            <p class="image-date">Uploaded on 2026-10-02 11:59:16</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/alpena_worlds_2025_bowtie.jpg" alt="alpena_worlds_2025_bowtie.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">alpena_worlds_2025_bowtie.jpg</p>
+            <p class="image-date">Uploaded on 2026-10-02 11:59:16</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/alpena_worlds_2025_wobbegong.jpg" alt="alpena_worlds_2025_wobbegong.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">alpena_worlds_2025_wobbegong.jpg</p>
+            <p class="image-date">Uploaded on 2026-10-02 11:59:16</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/alpena_worlds_2025_awards_ceremony.jpg" alt="alpena_worlds_2025_awards_ceremony.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">alpena_worlds_2025_awards_ceremony.jpg</p>
+            <p class="image-date">Uploaded on 2026-10-02 11:59:16</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/alpena_worlds_2025_glass_bottom_boat.jpg" alt="alpena_worlds_2025_glass_bottom_boat.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">alpena_worlds_2025_glass_bottom_boat.jpg</p>
+            <p class="image-date">Uploaded on 2026-10-02 11:59:16</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/alpena_worlds_2025_thunder_bay_river.jpg" alt="alpena_worlds_2025_thunder_bay_river.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">alpena_worlds_2025_thunder_bay_river.jpg</p>
+            <p class="image-date">Uploaded on 2026-10-02 11:59:16</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
+        <img src="/img/archive/alpena_worlds_2025_bridge_up.jpg" alt="alpena_worlds_2025_bridge_up.jpg" loading="lazy">
+        <div class="image-overlay">
+            <p class="image-title">alpena_worlds_2025_bridge_up.jpg</p>
+            <p class="image-date">Uploaded on 2026-10-02 11:59:16</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-item">
+    <div target="_blank" class="image-link">
         <img src="/img/archive/wobbegong_poolside.jpg" alt="wobbegong_poolside.jpg" loading="lazy">
         <div class="image-overlay">
             <p class="image-title">wobbegong_poolside.jpg</p>

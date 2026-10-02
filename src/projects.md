@@ -108,7 +108,9 @@ permalink: /projects
 <img src="/img/2006.jpg?url" alt="Robot for FRC 2006: Aim High">
 
 <h2>Competition - FRC 2005</h2>
+<h3>Plan B</h3>
 <img src="/img/2005.jpg?url" alt="Robot for FRC 2005: Triple Play">
+<p>Plan B had an omni-directional drive, with a CIM motor on each of its four omni wheels and a gyro to hold its heading, so it could turn in place and drive in any direction. A multi-joint arm in the middle of the chassis lifted the tetras, and drivers controlled it with a miniature model of the arm fitted with potentiometers that the real arm copied joint for joint. Floating outriggers kept it from tipping with the arm extended, and custom-milled aluminum "earmuffs" painted purple and gold covered the wheels and carried the team number.</p>
 
 <h2>Competition - FRC 2004</h2>
 <img src="/img/2004.jpg?url" alt="Robot for FRC 2004: FIRST Frenzy: Raising the Bar">
