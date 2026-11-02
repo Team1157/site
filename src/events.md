@@ -52,6 +52,16 @@ permalink: /events
     <th style="color: #ebbcfc">Awards</th>
   </tr>
   <tr>
+    <td>2026</td>
+    <td>MATE World Championships (St. John's, Newfoundland)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2026</td>
+    <td>MATE ROV Rocky Mountain Regional</td>
+    <td>Ranger 1st Place</td>
+  </tr>
+  <tr>
     <td>2025</td>
     <td>MATE World Championships (Alpena, Michigan)</td>
     <td></td>
