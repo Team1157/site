@@ -188,13 +188,26 @@ export default defineUserConfig({
 		`,
     ],
   ],
+  // The theme's page header prints createTime, so give it the last commit date.
+  extendsPage: page => {
+    const updatedTime = page.data.git?.updatedTime
+    if (updatedTime) {
+      page.frontmatter.createTime = new Date(updatedTime).toLocaleDateString(
+        'en-CA',
+        { timeZone: 'America/Denver' },
+      )
+    }
+  },
   bundler: viteBundler(),
   theme: plumeTheme({
     footer: false,
     navbar: [
-      { text: 'Donate', link: 'https://bvsd.revtrak.net/high-schools/boh/boh-clubs-and-extracurricular-activities/boh-robotics/#/v/boh-robotics-donation-in-memory-of-dan-zahner' },
+      {
+        text: 'Donate',
+        link: 'https://bvsd.revtrak.net/high-schools/boh/boh-clubs-and-extracurricular-activities/boh-robotics/#/v/boh-robotics-donation-in-memory-of-dan-zahner',
+      },
       { text: 'About', link: '/#about' },
-      { text: 'Sponsors', link: '/#sponsors'},
+      { text: 'Sponsors', link: '/#sponsors' },
       { text: 'Events', link: '/events' },
       { text: 'Projects', link: '/projects' },
       { text: 'History', link: '/history' },

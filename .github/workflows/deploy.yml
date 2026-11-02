@@ -2,6 +2,8 @@ name: Deploy Docs
 
 on:
   push:
+    branches:
+      - main
     tags:
       - v*
   workflow_dispatch:
@@ -26,7 +28,6 @@ jobs:
 
       - name: Install deps
         run: pnpm install --no-frozen-lockfile
-
 
       - name: Src build
         env:

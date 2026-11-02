@@ -1,7 +1,17 @@
 import os
+import re
 import sqlite3
 from PIL import Image
 from datetime import datetime
+
+def existing_create_time(page_path):
+    # A fresh stamp would change photos.md, and its last-updated date, on every commit.
+    if os.path.exists(page_path):
+        with open(page_path) as f:
+            match = re.search(r'^createTime: (.+)$', f.read(), re.MULTILINE)
+        if match:
+            return match.group(1)
+    return datetime.now().strftime('%Y/%m/%d %H:%M:%S')
 
 def create_image_viewer():
     # Database setup for a very practical and demure use of sqlite
@@ -64,7 +74,7 @@ def create_image_viewer():
     page_content = f'''---
 author: written by ada t 
 title: Photos
-createTime: {datetime.now().strftime('%Y/%m/%d %H:%M:%S')}
+createTime: {existing_create_time(os.path.join('src', 'photos.md'))}
 permalink: /photos
 ---
 
